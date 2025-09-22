@@ -1,0 +1,1143 @@
+[00:11:12.479] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+快速传送：点击 "传送锚点"
+
+[00:11:22.850] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："变化似乎没有想象中那么大。"
+
+[00:11:26.396] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这几天怎么样？"
+
+[00:11:42.745] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："谢谢你，还记得这件事。"
+
+[00:12:37.458] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："派蒙·"
+
+[00:13:13.842] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："落银"
+
+[00:13:13.901] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:14.185] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:20.805] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:21.145] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:27.277] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:30.251] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:33.798] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:34.143] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月落银"
+
+[00:13:45.487] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："身体情况又恶化了吗？"
+
+[00:14:42.195] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你做了什么"
+
+[00:15:34.841] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这不太一样吧·"
+
+[00:15:56.402] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："五大罪人"
+
+[00:16:57.512] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,62"
+
+[00:17:21.952] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你指的是？"
+
+[00:17:45.553] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："谢谢你教"
+
+[00:17:49.007] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："我们算「熟人]了吗？"
+
+[00:17:51.098] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："等「狂猎」的事告一段落·"
+
+[00:17:58.582] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："好久没说这么多话了吧"
+
+[00:20:25.431] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[00:20:26.741] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[00:20:28.091] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[00:20:35.266] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："若不团结起来，只会被各个击破。"
+
+[00:20:42.792] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："谢谢了。"
+
+[00:27:06.088] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+
+[14:31:46.327] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[14:31:46.864] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[14:31:46.869] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[14:31:46.874] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[14:31:47.184] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[14:31:47.583] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[14:32:08.774] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "YapModelTraining"
+
+[14:32:09.589] [INF] BetterGenshinImpact.View.MaskWindow
+更好的原神 "0.49.0"
+
+[14:32:09.592] [INF] BetterGenshinImpact.View.MaskWindow
+遮罩窗口已启动，游戏大小1920x1080，素材缩放"1,00"，DPI缩放1
+
+[14:36:40.660] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："火力的事就交给你们了。"
+
+[14:36:54.709] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："不会是狂猎干的吧·"
+
+[14:38:20.338] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："调查"
+
+[14:38:20.783] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："调查"
+
+[14:38:21.628] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："胡萝"
+
+[14:38:41.291] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："嗯，路过蛋卷工坊的时候。"
+
+[14:38:42.754] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："我觉得是狂猎。"
+
+[14:40:10.561] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入「执灯人」办事处"
+
+[14:40:10.917] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入「执灯人」办事处"
+
+[14:40:18.704] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[14:40:20.054] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[14:40:21.388] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[14:40:55.385] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："嗯。"
+
+[14:41:18.207] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："应该是后者吧··"
+
+[14:41:21.851] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："假设是猎月人所为"
+
+[14:41:33.344] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他笃定菲林斯不会出现的理由是什么？"
+
+[14:41:41.315] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："无论是何种情况··"
+
+[14:44:11.933] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："宿影花"
+
+[14:44:17.634] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："宿影花"
+
+[14:45:36.098] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,87"
+
+[14:45:58.164] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,85"
+
+[14:51:15.158] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："先找人地方休息吧。"
+
+[14:51:30.919] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："我也不理解，算是体质吧。"
+
+[14:51:44.417] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："既然是深渊污染之物··"
+
+[14:51:47.065] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："应该不会吧。"
+
+[14:51:56.207] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[14:51:57.590] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[14:51:58.973] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[14:52:02.295] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你能想到他嫁祸你的动机吗？"
+
+[14:52:32.598] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："的故事。"
+
+[14:52:44.350] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："可以倒是可以。"
+
+[14:54:39.451] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+快速传送：点击 "传送锚点"
+
+[14:55:37.512] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情：""
+
+[14:55:40.666] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你们的调查有新的进展吗？"
+
+[14:55:51.154] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入「执灯人」办事处"
+
+[14:55:51.499] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入「执灯人」办事处"
+
+[14:56:06.981] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："窗户那边有奇怪的光。"
+
+[14:56:29.635] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："确实是个掩人耳目的好办法。"
+
+[14:56:36.246] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这种事。"
+
+[14:56:58.838] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他们说现场调查已经完成。"
+
+[14:57:00.484] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:01.868] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:03.267] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:17.719] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："派蒙，看他手上的灯。"
+
+[14:57:26.261] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："修理大炮的的"
+
+[14:57:33.120] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："如果是需要维护的东西··"
+
+[14:57:51.084] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:52.499] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:53.867] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:55.216] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:56.566] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[14:57:57.900] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[15:00:08.387] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他假扮索西所做的事"
+
+[15:00:23.725] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："紧绷太久了。"
+
+[15:00:28.661] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："要在那夏镇休息一天吗？"
+
+[15:00:52.449] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："嗯，所以我会让你把灯给我。"
+
+[15:00:59.272] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："猎月人对你你执着"
+
+[15:01:00.817] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这是在敷衍。"
+
+[15:01:52.868] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："所以你才选择成为执灯人"
+
+[15:02:06.079] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："放心。"
+
+[15:03:04.577] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,53"
+
+[15:03:12.494] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,87"
+
+[15:03:14.626] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,96"
+
+[15:03:38.971] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："感觉很蹊跷·"
+
+[15:03:40.578] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他们显然知道了什么.…·"
+
+[15:03:42.949] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情：""
+
+[15:04:39.976] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[15:04:41.375] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,97"
+
+[15:05:32.592] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+快速传送：点击 "锚点"
+
+[15:09:16.628] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入二层「秘闻馆"
+
+[15:09:16.697] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入二层「秘闻馆」"
+
+[15:09:16.957] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："进入二层「秘闻馆」"
+
+[15:09:50.184] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："菲林斯提到过如果朝狂猎开炮"
+
+[15:10:00.987] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："既然这"
+
+[15:10:08.989] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："如果遇到猎月人，不要贸然交手。"
+
+[15:12:38.049] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："寒涌石"
+
+[15:12:59.032] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："霜盏花"
+
+[15:13:38.582] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这实在是…·"
+
+[15:13:50.811] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："怎么了？"
+
+[15:14:09.183] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："相似的标题"
+
+[15:14:43.586] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："我这边也差不多。"
+
+[15:14:54.216] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："难道是猎月人主动清理了这些狂猎？"
+
+[15:15:06.684] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："么会出现大规模狂猎？"
+
+[15:15:14.347] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他能够利用月矩力？"
+
+[15:15:17.944] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："深渊力量总是在试图侵蚀·"
+
+[15:15:20.384] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："所以猎月人会变强··"
+
+[15:15:28.544] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："这.….不清楚。"
+
+[15:15:59.097] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："「完整」的五大罪人·."
+
+[15:16:00.768] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："只能相信她们了。"
+
+[15:16:09.737] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："月萤虫"
+
+[15:16:30.348] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："原来煽动镇民的原因·"
+
+[15:17:07.750] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："所以你现在还要再来一次吗"
+
+[15:36:41.853] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,85"
+
+[15:36:59.198] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你还挺会看人··"
+
+[15:37:40.222] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："多亏你能出手。"
+
+[15:38:06.148] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："谢谢"
+
+[15:42:52.843] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+快速传送：点击 "传送锚点"
+
+[15:43:08.030] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[15:43:09.279] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[15:43:10.629] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0,98"
+
+[15:43:28.694] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："信"
+
+[15:43:37.806] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："他在开玩笑·"
+
+[15:49:07.221] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："我曾听过一个灯之妖精的故事。"
+
+[15:49:11.245] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："对他我也想说同样的话。"
+
+[15:49:22.096] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："你能这么想那就好"
+
+[15:49:26.464] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："气氨态现，昌建"
+
+[15:49:53.662] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："夏果"
+
+[15:50:11.998] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："薄荷"
+
+[15:51:09.237] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:51:15.045] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情：""
+
+[15:51:22.528] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」··"
+
+[15:51:28.739] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于[愚"
+
+[15:51:35.733] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」··"
+
+[15:51:41.739] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于愚人众·"
+
+[15:51:48.854] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」··"
+
+[15:51:54.838] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「人"
+
+[15:52:01.864] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:52:07.727] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情：""
+
+[15:52:15.090] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:52:21.726] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「愚人"
+
+[15:52:28.357] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："猎月人·"
+
+[15:52:34.259] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于馬"
+
+[15:52:41.174] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:52:47.049] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："飞船·"
+
+[15:52:51.358] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:52:57.408] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："飞船"
+
+[15:53:01.691] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人··"
+
+[15:53:07.601] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于"
+
+[15:53:14.748] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」··"
+
+[15:53:20.954] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于"
+
+[15:53:28.015] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人』··"
+
+[15:53:33.981] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「愚"
+
+[15:53:40.812] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关手「猎月人！··"
+
+[15:53:47.027] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「愚人众·"
+
+[15:53:53.852] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关「猎月人！··"
+
+[15:53:59.746] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于"
+
+[15:54:06.972] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」·"
+
+[15:54:12.898] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于"
+
+[15:54:19.562] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于『猎月人·"
+
+[15:54:25.463] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："飞船」"
+
+[15:54:29.474] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："于「猎月人"
+
+[15:54:35.245] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于周"
+
+[15:54:42.022] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关「猎月人！··"
+
+[15:54:47.821] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「愚众」·"
+
+[15:54:54.860] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人·"
+
+[15:55:01.261] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于[愚大众·"
+
+[15:55:08.205] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人」·"
+
+[15:55:14.666] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「愚人众··"
+
+[15:55:21.354] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："猎月人！·"
+
+[15:55:27.182] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："子"
+
+[15:55:34.627] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关于「猎月人！··"
+
+[15:55:40.405] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："飞船…·"
+
+[15:55:44.515] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："于「猎月人"
+
+[15:55:50.521] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情：""
+
+[15:55:57.916] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："关干「猎月人！…·"
+
+[15:56:03.950] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："没什么要问的了。"
+
+[15:56:40.338] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："普通的宝箱"
+
+[15:56:40.689] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："普通的宝箱"
+
+[16:00:04.066] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："普通的宝箱"
+
+[16:00:04.386] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："普通的宝箱"
+
+[16:00:05.413] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："冒险家尾羽"
+
+[16:00:05.800] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："冒险家尾羽"
+
+[16:00:05.974] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："精锻用良矿"
+
+[16:00:06.209] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："精锻用良矿"
+
+[16:00:08.346] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："调查"
+
+[16:00:08.684] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："调查"
+
+[16:12:01.103] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:12:15.884] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[16:12:16.373] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[16:12:16.378] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[16:12:16.381] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[16:12:16.625] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[16:12:17.043] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[16:12:57.934] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "YapModelTraining"
+
+[16:12:58.323] [INF] BetterGenshinImpact.View.MaskWindow
+更好的原神 "0.49.0"
+
+[16:12:58.323] [INF] BetterGenshinImpact.View.MaskWindow
+遮罩窗口已启动，游戏大小1920x1080，素材缩放"1,00"，DPI缩放1
+
+[16:13:21.861] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:13:21.867] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:13:21.978] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+→ "自动秘境，" 指定使用树脂
+
+[16:13:34.317] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+单人挑战 按键未出现，请检查是否已进入秘境页面
+
+[16:13:46.589] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:47.617] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:48.623] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:49.649] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:50.660] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:51.677] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:52.703] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:53.715] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:54.731] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:55.739] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境：进入 "队伍选择界面"
+
+[16:13:56.755] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+队伍选择界面未出现，跳过切换队伍。
+
+[16:13:58.023] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+0. 关闭秘境提示
+
+[16:14:00.795] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:14:00.797] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:14:01.027] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境："1. 走到钥匙处启动"
+
+[16:14:57.370] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到交互键
+
+[16:14:57.430] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境："2. 执行战斗策略"
+
+[16:14:57.490] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到秘境结束提示(xxx秒后自动退出)，结束秘境
+
+[16:14:57.728] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗操作中断："取消自动任务"
+
+[16:14:57.728] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动战斗线程结束
+
+[16:14:57.729] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗结束后等待 5 秒
+
+[16:15:02.743] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+自动秘境："3. 寻找石化古树"
+
+[16:15:24.773] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[16:15:24.818] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[16:15:27.416] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:15:27.430] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:15:54.572] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:15:54.573] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:15:54.643] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:15:54.643] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:15:57.966] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:16:00.997] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[16:16:02.010] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[16:16:03.022] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[16:16:07.127] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LBUTTON的按下状态.
+
+[16:16:07.127] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LWIN的按下状态.
+
+[16:16:07.128] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:16:07.141] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:16:59.018] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:16:59.018] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:16:59.073] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:16:59.073] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:17:02.349] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:17:12.518] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[16:17:27.500] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:17:30.761] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[16:17:32.773] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[16:17:32.840] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+[TemplateMatch]提瓦特大陆地图模板加载中，可能耗时较久，请耐心等待...
+
+[16:17:34.612] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_CONTROL的按下状态.
+
+[16:17:34.612] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_F的按下状态.
+
+[16:17:34.612] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LCONTROL的按下状态.
+
+[16:17:34.628] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+The operation was canceled.
+
+[16:17:34.628] [DBG] BetterGenshinImpact.GameTask.TaskRunner
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.ManualResetEventSlim.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.SpinThenBlockingWait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.InternalWaitCore(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait(CancellationToken cancellationToken)
+   at BetterGenshinImpact.GameTask.AutoFight.Model.Avatar.TpForRecover(CancellationToken ct, Exception ex) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Model\Avatar.cs:line 128
+   at BetterGenshinImpact.GameTask.AutoFight.Model.Avatar.ThrowWhenDefeated(ImageRegion region, CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Model\Avatar.cs:line 114
+   at BetterGenshinImpact.GameTask.AutoFight.Model.Avatar.Switch() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Model\Avatar.cs:line 147
+   at BetterGenshinImpact.GameTask.AutoFight.Script.CombatCommand.Execute(CombatScenes combatScenes) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Script\CombatCommand.cs:line 92
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.<>c__DisplayClass16_0.<<Start>b__5>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 386
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 448
+   at BetterGenshinImpact.GameTask.TaskRunner.<>c__DisplayClass6_0.<<RunSoloTaskAsync>b__1>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 122
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.TaskRunner.RunCurrentAsync(Func`1 action) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 63
+
+[16:17:34.640] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:17:43.121] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+地图特征点加载完成！
+
+[16:17:43.602] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1771,5938, Y = -422,46387 }"
+
+[16:17:43.609] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[16:17:46.235] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:17:46.236] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:17:46.304] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:17:46.304] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:17:50.186] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:18:00.377] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[16:18:12.045] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:18:15.071] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LBUTTON的按下状态.
+
+[16:18:15.071] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[16:18:15.072] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:18:15.086] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:18:42.868] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:18:42.868] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:18:42.932] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:18:42.932] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:18:56.276] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[16:19:08.311] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:19:18.192] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LBUTTON的按下状态.
+
+[16:19:18.192] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_CONTROL的按下状态.
+
+[16:19:18.192] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_F的按下状态.
+
+[16:19:18.192] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LCONTROL的按下状态.
+
+[16:19:18.193] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:19:18.204] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:19:55.866] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:19:55.866] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:19:55.931] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:19:55.931] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:19:59.843] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:20:09.793] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[16:20:51.462] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[16:20:51.928] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow69,25,23
+
+[16:20:51.928] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white69,28,24
+
+[16:20:52.469] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[16:20:54.115] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[16:20:54.597] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 11919,585, Y = -3698,9277 }"
+
+[16:20:54.598] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[16:20:55.523] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[16:20:56.437] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[16:21:05.647] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[16:21:10.647] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+血量恢复完成。【设置】-【七天神像设置】可以修改回血相关配置。
+
+[16:21:10.648] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[16:21:10.649] [DBG] BetterGenshinImpact.GameTask.TaskRunner
+   at BetterGenshinImpact.GameTask.AutoFight.Model.Avatar.TpForRecover(CancellationToken ct, Exception ex) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Model\Avatar.cs:line 130
+   at BetterGenshinImpact.GameTask.AutoFight.Model.Avatar.Switch() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Model\Avatar.cs:line 139
+   at BetterGenshinImpact.GameTask.AutoFight.Script.CombatCommand.Execute(CombatScenes combatScenes) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\Script\CombatCommand.cs:line 92
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.<>c__DisplayClass16_0.<<Start>b__5>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 386
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 448
+   at BetterGenshinImpact.GameTask.TaskRunner.<>c__DisplayClass6_0.<<RunSoloTaskAsync>b__1>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 122
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.TaskRunner.RunCurrentAsync(Func`1 action) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 63
+
+[16:21:10.661] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:24:10.174] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:24:10.174] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:24:10.251] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:24:10.251] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:24:14.442] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:24:24.212] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[16:24:35.968] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:24:50.958] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LBUTTON的按下状态.
+
+[16:24:50.958] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_CONTROL的按下状态.
+
+[16:24:50.958] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_D的按下状态.
+
+[16:24:50.958] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_F的按下状态.
+
+[16:24:50.959] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LCONTROL的按下状态.
+
+[16:24:50.959] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:24:50.974] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:25:37.990] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共18条指令，涉及角色："钟离,那维莱特,芙宁娜,琴"
+
+[16:25:38.006] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[16:25:38.346] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,那维莱特,芙宁娜,琴(和谐)"
+
+[16:25:38.346] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟那芙琴(非满命)"
+
+[16:25:44.411] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:117 秒
+
+[16:26:06.899] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:118 秒
+
+[16:26:19.735] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[16:26:19.736] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_D的按下状态.
+
+[16:26:19.736] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[16:26:19.737] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[16:26:19.758] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[16:27:10.790] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："探索派遣"
+
+[16:27:11.627] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："未找到领取按钮"
+
+[16:27:11.627] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："等待1s后重试"
+
+[16:27:12.714] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："全部领取"
+
+[16:27:13.925] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："再次派遣"
+
+[16:27:14.437] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："完成"
+
+[16:34:14.463] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："想买些武器。"
+
+[16:35:07.546] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.547] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.593] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.641] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.705] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.740] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.799] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.847] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.895] [WRN] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+截图失败!
+
+[16:35:07.998] [INF] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+游戏已退出，BetterGI 自动停止截图器
+
+[16:35:13.813] [DBG] BetterGenshinImpact.App
+UnHandle Exception
+BetterGenshinImpact.GameTask.AutoGeniusInvokation.Exception.NormalEndException: 取消自动任务
+   at BetterGenshinImpact.GameTask.Common.TaskControl.Delay(Int32 millisecondsTimeout, CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\TaskControl.cs:line 160
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.SwitchArea(String areaName) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 865
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.SwitchRecentlyCountryMap(Double x, Double y, String forceCountry) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 855
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpOnce(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 227
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.Tp(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 437
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpToStatueOfTheSeven() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 97
+
+[16:35:17.205] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+
+[23:07:34.798] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[23:07:35.304] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[23:07:35.309] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[23:07:35.313] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[23:07:35.619] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[23:07:36.031] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[23:08:42.299] [INF] BetterGenshinImpact.Core.Script.ScriptRepoUpdater
+脚本 js/AutoCommission 没有需要保存的文件
+
+[23:13:05.449] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+

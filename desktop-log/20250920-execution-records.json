@@ -1,0 +1,35 @@
+{
+  "name": "20250920",
+  "execution_records": [
+    {
+      "type": "Javascript",
+      "guid": "71f582a0-384b-47d3-a091-2837bde95c54",
+      "group_name": "自动蒙德委托",
+      "project_name": "(对话+成就)全自动蒙德地区每日委托",
+      "folder_name": "AutoCommission",
+      "start_time": "2025-09-20T23:13:50.064867+02:00",
+      "end_time": "2025-09-20T23:31:16.9583047+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "514b70cc-15a0-4643-98c0-3d804802d033",
+      "group_name": "自动蒙德委托",
+      "project_name": "(对话+成就)全自动蒙德地区每日委托",
+      "folder_name": "AutoCommission",
+      "start_time": "2025-09-20T23:31:45.9206353+02:00",
+      "end_time": "2025-09-20T23:40:39.7376653+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "148f4446-dbdc-4dcd-b378-41772fa38ed8",
+      "group_name": "自动蒙德委托",
+      "project_name": "(对话+成就)全自动蒙德地区每日委托",
+      "folder_name": "AutoCommission",
+      "start_time": "2025-09-20T23:40:54.2762897+02:00",
+      "end_time": "2025-09-20T23:59:15.7882405+02:00",
+      "is_successful": true
+    }
+  ]
+}

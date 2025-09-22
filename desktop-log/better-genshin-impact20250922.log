@@ -1,0 +1,273 @@
+[00:00:14.862] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[00:01:22.150] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:01:22.153] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[00:02:07.521] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:11.556] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:12.616] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:13.657] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:14.715] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:15.790] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:19.872] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:20.924] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:22.029] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:02:42.149] [INF] BetterGenshinImpact.ViewModel.Pages.HomePageViewModel
+► 切换捕获模式至["WindowsGraphicsCapture"]，截图器自动重启...
+
+[00:03:04.115] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动战斗线程结束
+
+[00:03:04.117] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[00:03:04.118] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[00:03:04.129] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[00:03:38.561] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+
+[00:03:44.956] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[00:03:45.457] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[00:03:45.511] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[init]无法加载TensorRt。可能不支持，跳过。("Unable to find an entry point named 'OrtSessionOptionsAppendExecutionProvider_Tensorrt' in DLL 'onnxruntime'.")
+
+[00:03:45.941] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Dml,Cpu",初始化参数: InferenceDevice=Gpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[00:03:45.947] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[00:03:46.313] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[00:03:47.398] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "YapModelTraining"
+
+[00:03:47.821] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[00:03:48.048] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[00:03:50.043] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[00:03:50.072] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[00:03:50.452] [INF] BetterGenshinImpact.View.MaskWindow
+更好的原神 "0.51.0"
+
+[00:03:50.453] [INF] BetterGenshinImpact.View.MaskWindow
+遮罩窗口已启动，游戏大小1920x1080，素材缩放"1,00"，DPI缩放1
+
+[00:04:02.461] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:04:02.463] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[00:04:02.480] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+→ "自动幽境危战，" 用尽所有浓缩树脂和原粹树脂后结束
+
+[00:04:19.447] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:04:19.470] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[00:04:22.077] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:04:23.176] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[00:04:28.454] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[00:04:28.489] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[00:04:41.444] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:04:41.444] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[00:04:41.452] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+→ "自动幽境危战，" 用尽所有浓缩树脂和原粹树脂后结束
+
+[00:04:45.567] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：点击前往挑战
+
+[00:04:57.037] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+识别图像[GoTeleport]在 10000ms 后超时未出现！
+
+[00:04:57.037] [DBG] BetterGenshinImpact.GameTask.TaskRunner
+   at BetterGenshinImpact.Core.BgiVision.BvLocator.WaitFor(Nullable`1 timeout) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\BgiVision\BvLocator.cs:line 119
+   at BetterGenshinImpact.Core.BgiVision.BvLocator.Click(Nullable`1 timeout) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\BgiVision\BvLocator.cs:line 82
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.TpToDomain(BvPage page) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 221
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.DoDomain() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 83
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 70
+   at BetterGenshinImpact.GameTask.TaskRunner.<>c__DisplayClass6_0.<<RunSoloTaskAsync>b__1>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 122
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.TaskRunner.RunCurrentAsync(Func`1 action) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 63
+
+[00:04:57.070] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[00:05:36.796] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:05:36.796] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[00:05:36.802] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+→ "自动幽境危战，" 用尽所有浓缩树脂和原粹树脂后结束
+
+[00:05:40.782] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：点击前往挑战
+
+[00:05:52.398] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+识别图像[GoTeleport]在 10000ms 后超时未出现！
+
+[00:05:52.398] [DBG] BetterGenshinImpact.GameTask.TaskRunner
+   at BetterGenshinImpact.Core.BgiVision.BvLocator.WaitFor(Nullable`1 timeout) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\BgiVision\BvLocator.cs:line 119
+   at BetterGenshinImpact.Core.BgiVision.BvLocator.Click(Nullable`1 timeout) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\BgiVision\BvLocator.cs:line 82
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.TpToDomain(BvPage page) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 221
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.DoDomain() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 83
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 70
+   at BetterGenshinImpact.GameTask.TaskRunner.<>c__DisplayClass6_0.<<RunSoloTaskAsync>b__1>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 122
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.TaskRunner.RunCurrentAsync(Func`1 action) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\TaskRunner.cs:line 63
+
+[00:05:52.433] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[00:06:09.196] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共46条指令，涉及角色："伊涅芙,玛薇卡,芙宁娜,希诺宁"
+
+[00:06:09.196] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[00:06:09.205] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+→ "自动幽境危战，" 用尽所有浓缩树脂和原粹树脂后结束
+
+[00:06:13.205] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：点击前往挑战
+
+[00:06:14.525] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：点击传送
+
+[00:06:17.756] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：传送完成
+
+[00:06:19.761] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：交互秘境
+
+[00:06:26.360] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：进入秘境
+
+[00:06:32.798] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：步行前往钥匙
+
+[00:06:34.859] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到交互键
+
+[00:06:38.203] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战：选择BOSS编号3
+
+[00:06:47.250] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[00:06:47.636] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"伊涅芙,芙宁娜,玛薇卡,希诺宁"
+
+[00:06:47.638] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火_水_机娘_希诺宁"
+
+[00:06:51.728] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动幽境危战："2. 执行战斗策略"
+
+[00:06:52.037] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"伊涅芙" 点按元素战技，cd:159 秒
+
+[00:07:17.637] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+战斗操作中断："取消自动任务"
+
+[00:07:17.637] [INF] BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask
+自动战斗线程结束
+
+[00:07:17.638] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"取消自动任务"
+
+[00:07:17.672] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[00:07:20.033] [DBG] BetterGenshinImpact.App
+UnHandle Exception
+BetterGenshinImpact.GameTask.AutoGeniusInvokation.Exception.NormalEndException: 取消自动任务
+   at BetterGenshinImpact.GameTask.Common.TaskControl.Delay(Int32 millisecondsTimeout, CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\TaskControl.cs:line 160
+   at BetterGenshinImpact.GameTask.Common.NewRetry.WaitForAction(Func`1 action, CancellationToken ct, Int32 retryTimes, Int32 delayMs) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\NewRetry.cs:line 82
+   at BetterGenshinImpact.GameTask.Common.BgiVision.Bv.WaitUntilFound(RecognitionObject ro, CancellationToken ct, Int32 retryTimes, Int32 delayMs) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\BgiVision\BvImage.cs:line 23
+   at BetterGenshinImpact.GameTask.AutoStygianOnslaught.AutoStygianOnslaughtTask.<>c__DisplayClass18_0.<<DomainEndDetectionTask>b__0>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoStygianOnslaught\AutoStygianOnslaughtTask.cs:line 350
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_1(Object state)
+   at System.Threading.QueueUserWorkItemCallback.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+
+[12:03:30.287] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[12:03:30.855] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[12:03:30.953] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[init]无法加载TensorRt。可能不支持，跳过。("Unable to find an entry point named 'OrtSessionOptionsAppendExecutionProvider_Tensorrt' in DLL 'onnxruntime'.")
+
+[12:03:31.217] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Dml,Cpu",初始化参数: InferenceDevice=Gpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[12:03:31.223] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[12:03:32.337] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[12:03:34.208] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[12:07:32.491] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+

@@ -1,0 +1,135 @@
+{
+  "name": "20250905",
+  "execution_records": [
+    {
+      "type": "Javascript",
+      "guid": "1d7886d6-1420-4eaf-a953-c65febae590e",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:03:03.4157939+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "886ffdd0-b0eb-4f6d-a70a-1497d97ff0d2",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:11:05.6595819+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "09a0c652-be66-4176-9672-2a0a642bb5ac",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:13:25.7003664+02:00",
+      "end_time": "2025-09-05T00:13:43.2678329+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "3748a323-1d5b-4619-8fad-e6658ae90fd9",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:14:01.065841+02:00",
+      "end_time": "2025-09-05T00:14:09.9119635+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "1afa0d69-7160-44b6-a867-3cc585762dfc",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:14:42.6264391+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "11f86ce3-761f-49e9-a138-ef814c438d48",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:20:37.8973001+02:00",
+      "end_time": "2025-09-05T00:24:59.0759301+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "82c629c6-a118-45a1-8002-e26ac5effe60",
+      "group_name": "AutoArtifact圣遗物狗粮",
+      "project_name": "狗粮ABE路线，自动拾取分解",
+      "folder_name": "AutoArtifacts_A_B_Extra",
+      "start_time": "2025-09-05T00:30:54.9275395+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "34c5bd79-89f8-43e7-a153-a65bd90f4d41",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:31:22.7792929+02:00",
+      "end_time": "2025-09-05T00:33:24.4255735+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "cd96f1e7-a0fe-4461-81d2-e2aeaff14964",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:36:05.4540547+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "2eebb391-64b5-4a7e-8781-38331ec0c237",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:40:58.9582009+02:00",
+      "end_time": "0001-01-01T00:00:00",
+      "is_successful": false
+    },
+    {
+      "type": "Javascript",
+      "guid": "dd904c59-dd88-4439-8cdb-3abcd3abf2cb",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:48:37.3178636+02:00",
+      "end_time": "2025-09-05T00:49:48.9936459+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "e6961d10-7e0e-4553-a0ad-97664de160ed",
+      "group_name": "地脉花",
+      "project_name": "全自动枫丹地脉花",
+      "folder_name": "AutoFontaineLeyLine",
+      "start_time": "2025-09-05T00:50:29.7386234+02:00",
+      "end_time": "2025-09-05T00:52:50.7394711+02:00",
+      "is_successful": true
+    },
+    {
+      "type": "Javascript",
+      "guid": "2d9fad0d-3bd8-44c2-b469-d707a3835509",
+      "group_name": "AutoArtifact圣遗物狗粮",
+      "project_name": "狗粮ABE路线，自动拾取分解",
+      "folder_name": "AutoArtifacts_A_B_Extra",
+      "start_time": "2025-09-05T14:59:10.9525659+02:00",
+      "end_time": "2025-09-05T16:09:54.1320252+02:00",
+      "is_successful": true
+    }
+  ]
+}

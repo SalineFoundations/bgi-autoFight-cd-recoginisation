@@ -1,0 +1,4604 @@
+[23:08:08.872] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[23:08:09.409] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[23:08:09.414] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[23:08:09.484] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[23:08:10.091] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[23:08:10.856] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[23:08:19.047] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+
+[23:09:20.351] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[23:09:20.841] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\echo-nova\AppData\Local\Microsoft\WindowsApps;"
+
+[23:09:20.846] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=False
+
+[23:09:20.858] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[23:09:21.096] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[23:09:21.454] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[23:09:48.415] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "YapModelTraining"
+
+[23:09:48.866] [INF] BetterGenshinImpact.View.MaskWindow
+更好的原神 "0.51.0"
+
+[23:09:48.867] [INF] BetterGenshinImpact.View.MaskWindow
+遮罩窗口已启动，游戏大小1920x1080，素材缩放"1,00"，DPI缩放1
+
+[23:13:49.366] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙配置：蒙德委托过渡
+
+[23:13:49.367] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用任务总数量: 3
+
+[23:13:49.411] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙任务的数量: 2
+
+[23:13:49.411] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用配置组任务的数量: 1
+
+[23:13:49.412] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+配置组任务执行: 1/1
+
+[23:13:49.940] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 加载完成，共1个脚本，开始执行
+
+[23:13:49.943] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[23:13:50.061] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:13:50.062] [INF] BetterGenshinImpact.Service.ScriptService
+→ 开始执行JS脚本: "(对话+成就)全自动蒙德地区每日委托"
+
+[23:13:50.290] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:13:50.291] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:13:50.291] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:13:50.291] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:13:50.292] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器...
+
+[23:13:50.307] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+发现 13 个步骤处理器文件
+
+[23:13:50.307] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "auto-task.js"
+
+[23:13:50.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "自动任务"
+
+[23:13:50.308] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "auto-task.js" 加载成功
+
+[23:13:50.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-description-detection.js"
+
+[23:13:50.313] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托描述检测"
+
+[23:13:50.314] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-description-detection.js" 加载成功
+
+[23:13:50.314] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-tracking.js"
+
+[23:13:50.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "追踪委托"
+
+[23:13:50.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托追踪"
+
+[23:13:50.315] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-tracking.js" 加载成功
+
+[23:13:50.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "dialog.js"
+
+[23:13:50.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "对话"
+
+[23:13:50.315] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "dialog.js" 加载成功
+
+[23:13:50.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-mouse-script.js"
+
+[23:13:50.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "键鼠脚本"
+
+[23:13:50.316] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-mouse-script.js" 加载成功
+
+[23:13:50.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-press.js"
+
+[23:13:50.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "按键"
+
+[23:13:50.316] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-press.js" 加载成功
+
+[23:13:50.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "location-detection.js"
+
+[23:13:50.317] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地址检测"
+
+[23:13:50.317] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "location-detection.js" 加载成功
+
+[23:13:50.317] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "map-tracking.js"
+
+[23:13:50.317] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地图追踪"
+
+[23:13:50.318] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "map-tracking.js" 加载成功
+
+[23:13:50.318] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-role.js"
+
+[23:13:50.318] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换角色"
+
+[23:13:50.318] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-role.js" 加载成功
+
+[23:13:50.318] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-team.js"
+
+[23:13:50.319] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换队伍"
+
+[23:13:50.319] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-team.js" 加载成功
+
+[23:13:50.319] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "teleport.js"
+
+[23:13:50.319] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "tp"
+
+[23:13:50.320] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "传送"
+
+[23:13:50.320] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "teleport.js" 加载成功
+
+[23:13:50.320] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait-main-ui.js"
+
+[23:13:50.320] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待返回主界面"
+
+[23:13:50.320] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待主界面"
+
+[23:13:50.320] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait-main-ui.js" 加载成功
+
+[23:13:50.320] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait.js"
+
+[23:13:50.321] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待"
+
+[23:13:50.321] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait.js" 加载成功
+
+[23:13:50.321] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器动态加载完成，共注册 16 个处理器
+
+[23:13:50.321] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:13:50.333] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:13:50.335] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:13:50.335] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行原神每日委托识别脚本
+
+[23:13:59.565] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:13:59.566] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始读取支持的委托列表: "name.json"
+
+[23:13:59.567] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的战斗委托列表，共 13 个
+
+[23:13:59.567] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的对话委托列表，共 38 个
+
+[23:13:59.567] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+加载委托数据完成: 战斗委托 13 个，对话委托 38 个
+
+[23:13:59.567] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的战斗委托: 13 个
+
+[23:13:59.568] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的对话委托: 38 个
+
+[23:13:59.571] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:13:59.573] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:14:00.779] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:14:01.795] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:14:01.795] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤1: 使用识别前3个委托
+
+[23:14:01.796] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第1个委托区域 (796, 293) (1236, 333)
+
+[23:14:01.815] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个区域OCR识别结果数量: 0
+
+[23:14:01.816] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第2个委托区域 (796, 401) (1236, 441)
+
+[23:14:01.826] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个区域OCR识别结果数量: 0
+
+[23:14:01.826] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第3个委托区域 (796, 509) (1236, 549)
+
+[23:14:01.836] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个区域OCR识别结果数量: 0
+
+[23:14:01.836] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤2: 检测所有委托的完成状态
+
+[23:14:01.836] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤3: 翻页后识别第4个委托
+
+[23:14:01.836] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:14:02.682] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第4个委托区域 (796, 544) (1236, 584)
+
+[23:14:02.698] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个区域OCR识别结果数量: 0
+
+[23:14:02.698] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+完整委托列表:
+
+[23:14:02.699] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别失败或未识别到任何委托，跳过保存数据
+
+[23:14:02.699] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别失败，未识别到任何委托
+
+[23:14:02.699] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托前准备
+
+[23:14:07.344] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:07.347] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:11.858] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:14:11.970] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:11.971] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:12.402] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:12.403] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:13.194] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:13.195] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:13.866] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:13.866] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:14.114] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:14.114] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:14.346] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:14:14.346] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:14:17.478] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[23:14:22.736] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[23:14:24.778] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前获取焦点的窗口不是原神，尝试恢复窗口
+
+[23:14:31.123] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+PrepareForLeyLineRun函数出现错误: "打开大地图失败，请检查按键绑定中「打开地图」按键设置是否和原神游戏中一致！"
+
+[23:14:31.123] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托追踪 - 按距离排序模式
+
+[23:14:36.249] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的委托数据，共 4 个
+
+[23:14:36.250] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "丘丘人的一小步" ("低语森林") ["fight"]
+
+[23:14:36.250] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1107.2715, 2457.7896)
+
+[23:14:36.255] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/丘丘人的一小步/低语森林-1.json" 获取到目标坐标: (-1108.62, 2459.38)
+
+[23:14:36.256] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/丘丘人的一小步/低语森林-1.json" 目标位置: (-1108.62, 2459.38)，距离: 2.0851913840920404
+
+[23:14:36.256] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/低语森林-2.json"
+
+[23:14:36.257] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/低语森林-3.json"
+
+[23:14:36.257] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:14:36.257] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/丘丘人的一小步/低语森林-1.json", 距离: 2.0851913840920404
+
+[23:14:36.257] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/丘丘人的一小步/低语森林-1.json" (距离: 2.0851913840920404)
+
+[23:14:36.675] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:14:36.744] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:14:36.755] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+[TemplateMatch]提瓦特大陆地图模板加载中，可能耗时较久，请耐心等待...
+
+[23:14:43.425] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+地图特征点加载完成！
+
+[23:14:45.213] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 9967,733, Y = 1678,4106 }"
+
+[23:14:45.213] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:14:46.343] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:14:47.284] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:14:57.707] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:14:58.386] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1296,5","2549,0")
+
+[23:15:08.068] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:15:08.201] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1108,6","2459,4")
+
+[23:15:11.896] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："甜甜花"
+
+[23:15:26.914] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："蓝角蜥"
+
+[23:15:27.425] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："蓝角蜥"
+
+[23:15:42.406] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:15:42.410] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:15:42.411] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:15:42.418] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:15:42.467] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:15:42.467] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:15:43.307] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:17:36.510] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"玛薇卡" 点按元素战技，cd:9 秒
+
+[23:18:01.555] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:18:02.572] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:18:02.573] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:18:02.573] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:18:02.573] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:18:03.779] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:18:04.685] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:18:05.532] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:18:05.559] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 未完成
+
+[23:18:05.562] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "丘丘人的一小步" 最近脚本执行失败，重试次数: 0/1
+
+[23:18:05.562] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "丘丘人的一小步"...
+
+[23:18:06.569] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 第 1 次重试执行
+
+[23:18:06.579] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/丘丘人的一小步/低语森林-1.json" 获取到目标坐标: (-1108.62, 2459.38)
+
+[23:18:06.579] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/丘丘人的一小步/低语森林-1.json" 目标位置: (-1108.62, 2459.38)，距离: 2.0851913840920404
+
+[23:18:06.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/低语森林-2.json"
+
+[23:18:06.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/低语森林-3.json"
+
+[23:18:06.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:18:06.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/丘丘人的一小步/低语森林-1.json", 距离: 2.0851913840920404
+
+[23:18:06.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/丘丘人的一小步/低语森林-1.json" (距离: 2.0851913840920404)
+
+[23:18:12.593] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1009,50977, Y = 2420,2153 }"
+
+[23:18:12.593] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[23:18:13.017] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:18:17.339] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:18:18.025] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1296,5","2549,0")
+
+[23:18:23.602] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："黑背鲈鱼"
+
+[23:18:27.296] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:18:27.447] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1108,6","2459,4")
+
+[23:18:45.696] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："树莓"
+
+[23:18:56.304] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:18:56.304] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:18:56.318] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:18:56.329] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:18:56.673] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:18:56.673] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:18:58.053] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:20:51.173] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"玛薇卡" 点按元素战技，cd:9 秒
+
+[23:21:16.223] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:21:17.237] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:21:17.237] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:21:17.237] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:21:17.238] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:21:18.430] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:21:19.338] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:21:20.193] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:21:20.198] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 未完成
+
+[23:21:20.198] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "丘丘人的一小步" 最近脚本执行失败，重试次数: 1/1
+
+[23:21:20.199] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 重试 1 次后仍未完成，跳过该委托
+
+[23:21:20.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:21:20.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "邪恶的扩张" ("明冠峡") ["fight"]
+
+[23:21:20.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-492.97852, 2743.5178)
+
+[23:21:20.215] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/邪恶的扩张/明冠峡-1.json" 获取到目标坐标: (-492.59082, 2738.4023)
+
+[23:21:20.215] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/邪恶的扩张/明冠峡-1.json" 目标位置: (-492.59082, 2738.4023)，距离: 5.130148935377552
+
+[23:21:20.216] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/邪恶的扩张/明冠峡-2.json"
+
+[23:21:20.216] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/邪恶的扩张/明冠峡-3.json"
+
+[23:21:20.216] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:21:20.216] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/邪恶的扩张/明冠峡-1.json", 距离: 5.130148935377552
+
+[23:21:20.216] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/邪恶的扩张/明冠峡-1.json" (距离: 5.130148935377552)
+
+[23:21:26.120] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1002,2949, Y = 2431,7988 }"
+
+[23:21:26.120] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:21:27.100] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:21:28.008] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:21:33.541] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:21:34.146] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-456,8","2633,2")
+
+[23:21:41.415] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:21:41.525] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-466,0","2660,5")
+
+[23:21:46.475] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:21:46.569] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-477,7","2695,5")
+
+[23:21:52.711] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:21:52.713] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:21:54.301] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:21:54.391] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-478,9","2698,7")
+
+[23:21:55.417] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:21:55.543] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-485,0","2718,1")
+
+[23:21:57.865] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:21:58.032] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-492,6","2738,4")
+
+[23:22:00.463] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:22:00.463] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:22:00.464] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:22:00.469] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:22:00.513] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:22:00.513] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:22:01.333] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:23:54.487] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"玛薇卡" 点按元素战技，cd:8 秒
+
+[23:24:19.517] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:24:20.525] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:24:20.525] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:24:20.525] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:24:20.526] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:24:21.720] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:24:22.627] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:24:23.467] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:24:23.472] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "邪恶的扩张" 未完成
+
+[23:24:23.472] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "邪恶的扩张" 最近脚本执行失败，重试次数: 0/1
+
+[23:24:23.472] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "邪恶的扩张"...
+
+[23:24:24.478] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "邪恶的扩张" 第 1 次重试执行
+
+[23:24:24.478] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/邪恶的扩张/明冠峡-1.json" 获取到目标坐标: (-492.59082, 2738.4023)
+
+[23:24:24.478] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/邪恶的扩张/明冠峡-1.json" 目标位置: (-492.59082, 2738.4023)，距离: 5.130148935377552
+
+[23:24:24.479] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/邪恶的扩张/明冠峡-2.json"
+
+[23:24:24.479] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/邪恶的扩张/明冠峡-3.json"
+
+[23:24:24.479] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:24:24.479] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/邪恶的扩张/明冠峡-1.json", 距离: 5.130148935377552
+
+[23:24:24.479] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/邪恶的扩张/明冠峡-1.json" (距离: 5.130148935377552)
+
+[23:24:30.382] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -506,10938, Y = 2826,67 }"
+
+[23:24:30.382] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[23:24:30.778] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:24:35.090] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:24:35.704] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-456,8","2633,2")
+
+[23:24:36.466] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到具体路径，取上次点位
+
+[23:24:36.610] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到具体路径，取上次点位
+
+[23:24:42.951] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:24:43.030] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-466,0","2660,5")
+
+[23:24:48.158] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:24:48.242] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-477,7","2695,5")
+
+[23:24:54.338] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:24:54.339] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:24:55.607] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:24:55.744] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-478,9","2698,7")
+
+[23:24:56.657] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:24:56.742] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-485,0","2718,1")
+
+[23:24:59.284] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:24:59.407] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-492,6","2738,4")
+
+[23:25:01.847] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:25:01.847] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:25:01.848] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:25:01.852] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:25:01.896] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:25:01.896] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:25:03.272] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:26:56.533] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"玛薇卡" 点按元素战技，cd:8 秒
+
+[23:27:21.575] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:27:22.582] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:27:22.582] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:27:22.582] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:27:22.582] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:27:23.778] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:27:24.687] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:27:25.547] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:27:25.552] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "邪恶的扩张" 未完成
+
+[23:27:25.552] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "邪恶的扩张" 最近脚本执行失败，重试次数: 1/1
+
+[23:27:25.552] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "邪恶的扩张" 重试 1 次后仍未完成，跳过该委托
+
+[23:27:25.552] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:27:25.552] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "攀高危险" ("风啸山坡") ["fight"]
+
+[23:27:25.552] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1340.5703, 1620.6274)
+
+[23:27:25.565] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/攀高危险/风啸山坡-1.json" 获取到目标坐标: (-1330.09, 1622.75)
+
+[23:27:25.565] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/攀高危险/风啸山坡-1.json" 目标位置: (-1330.09, 1622.75)，距离: 10.693091465126441
+
+[23:27:25.578] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/攀高危险/风啸山坡-2.json" 获取到目标坐标: (-1180.14, 1565.32)
+
+[23:27:25.578] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/攀高危险/风啸山坡-2.json" 目标位置: (-1180.14, 1565.32)，距离: 169.69619395777093
+
+[23:27:25.578] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/攀高危险/风啸山坡-3.json"
+
+[23:27:25.579] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:27:25.579] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/攀高危险/风啸山坡-1.json", 距离: 10.693091465126441
+
+[23:27:25.579] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. 脚本: "assets/攀高危险/风啸山坡-2.json", 距离: 169.69619395777093
+
+[23:27:25.579] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/攀高危险/风啸山坡-1.json" (距离: 10.693091465126441)
+
+[23:27:31.499] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -508,85938, Y = 2824,7957 }"
+
+[23:27:31.499] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:27:32.482] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:27:33.389] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:27:38.862] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 4 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:27:39.573] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:27:43.870] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:27:44.511] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1408,2","1656,2")
+
+[23:27:45.815] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到具体路径，取上次点位
+
+[23:27:45.948] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到具体路径，取上次点位
+
+[23:27:47.990] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:27:48.069] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1386,9","1636,9")
+
+[23:27:51.945] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:27:52.028] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1372,5","1627,8")
+
+[23:27:54.354] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:27:54.462] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1360,6","1620,2")
+
+[23:27:56.322] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:27:56.322] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:27:56.322] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:27:56.328] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:27:56.372] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:27:56.373] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:27:57.201] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:28:18.430] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："史莱姆原浆"
+
+[23:28:18.656] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："史莱姆凝液"
+
+[23:28:19.005] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："史莱姆凝液"
+
+[23:29:50.383] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"玛薇卡" 点按元素战技，cd:8 秒
+
+[23:30:15.425] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:30:16.565] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1348,7","1620,9")
+
+[23:30:27.612] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:30:27.698] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1330,1","1622,8")
+
+[23:30:30.696] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:30:30.696] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:30:30.697] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:30:30.703] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:30:30.748] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,芙宁娜,伊涅芙"
+
+[23:30:30.748] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+未完整匹配到四人队伍，使用匹配度最高的队伍："火芙希莱-精英"
+
+[23:30:32.150] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:31:16.900] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_CONTROL的按下状态.
+
+[23:31:16.900] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_Q的按下状态.
+
+[23:31:16.900] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LCONTROL的按下状态.
+
+[23:31:16.901] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+取消自动任务
+
+[23:31:16.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:31:16.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:31:16.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:31:16.902] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:31:16.945] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+进入委托界面失败: ["[hostException, System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.Task.GetExceptions(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.ContinueWithCore(Task continuationTask, TaskScheduler scheduler, CancellationToken cancellationToken, TaskContinuationOptions options)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass145_0`1.<Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask>b__0(Object resolve, Object reject)
+   at InvokeStub_Action`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask[T](Task`1 task)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.MarshalToScript(Object obj, HostItemFlags flags)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.RunFile(String path) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 54
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.Run(String json) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 40
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.Pathing(PathingTask task) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 277
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.AfterMoveToTarget(WaypointForTrack waypoint) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 1079
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.Handler.AutoFightHandler.RunAsync(CancellationToken ct, WaypointForTrack waypointForTrack, Object config) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\Handler\AutoFightHandler.cs:line 23
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.Handler.AutoFightHandler.StartFight(CancellationToken ct, Object config, WaypointForTrack waypointForTrack) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\Handler\AutoFightHandler.cs:line 71
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 448
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Threading.Tasks.UnwrapPromise`1.TrySetFromTask(Task task, Boolean lookForOce)
+   at System.Threading.Tasks.UnwrapPromise`1.ProcessInnerTask(Task task)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)]"]
+
+[23:31:16.949] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+无法进入委托界面
+
+[23:31:16.949] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "攀高危险" 未完成
+
+[23:31:16.949] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "攀高危险" 最近脚本执行失败，重试次数: 0/1
+
+[23:31:16.949] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "攀高危险"...
+
+[23:31:16.950] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+执行委托追踪时出错: "A task was canceled."
+
+[23:31:16.951] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:16.951] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:31:16.951] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:31:16.951] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:16.951] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+每日委托执行完成，前往安全地点
+
+[23:31:16.955] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+执行出错: "取消自动任务"
+
+[23:31:16.955] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:16.956] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:31:16.956] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:31:16.956] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:16.956] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+脚本执行完成，总耗时: 1047 秒
+
+[23:31:16.957] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+模块化主文件加载完成
+
+[23:31:16.979] [INF] BetterGenshinImpact.Service.ScriptService
+→ 脚本执行结束: "(对话+成就)全自动蒙德地区每日委托", 耗时: 17分26.917秒
+
+[23:31:16.979] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:31:19.343] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[23:31:19.355] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 执行结束
+
+[23:31:20.360] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+任务被取消，退出执行
+
+[23:31:45.345] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙配置：蒙德委托过渡
+
+[23:31:45.345] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用任务总数量: 3
+
+[23:31:45.397] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙任务的数量: 2
+
+[23:31:45.398] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用配置组任务的数量: 1
+
+[23:31:45.398] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+配置组任务执行: 1/1
+
+[23:31:45.913] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 加载完成，共1个脚本，开始执行
+
+[23:31:45.913] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[23:31:45.920] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:31:45.920] [INF] BetterGenshinImpact.Service.ScriptService
+→ 开始执行JS脚本: "(对话+成就)全自动蒙德地区每日委托"
+
+[23:31:46.141] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:46.141] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:31:46.141] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:31:46.141] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:31:46.141] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器...
+
+[23:31:46.144] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+发现 13 个步骤处理器文件
+
+[23:31:46.144] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "auto-task.js"
+
+[23:31:46.162] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "自动任务"
+
+[23:31:46.162] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "auto-task.js" 加载成功
+
+[23:31:46.162] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-description-detection.js"
+
+[23:31:46.184] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托描述检测"
+
+[23:31:46.184] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-description-detection.js" 加载成功
+
+[23:31:46.184] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-tracking.js"
+
+[23:31:46.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "追踪委托"
+
+[23:31:46.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托追踪"
+
+[23:31:46.199] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-tracking.js" 加载成功
+
+[23:31:46.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "dialog.js"
+
+[23:31:46.217] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "对话"
+
+[23:31:46.217] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "dialog.js" 加载成功
+
+[23:31:46.217] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-mouse-script.js"
+
+[23:31:46.231] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "键鼠脚本"
+
+[23:31:46.232] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-mouse-script.js" 加载成功
+
+[23:31:46.232] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-press.js"
+
+[23:31:46.248] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "按键"
+
+[23:31:46.248] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-press.js" 加载成功
+
+[23:31:46.248] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "location-detection.js"
+
+[23:31:46.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地址检测"
+
+[23:31:46.265] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "location-detection.js" 加载成功
+
+[23:31:46.265] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "map-tracking.js"
+
+[23:31:46.276] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地图追踪"
+
+[23:31:46.276] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "map-tracking.js" 加载成功
+
+[23:31:46.276] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-role.js"
+
+[23:31:46.293] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换角色"
+
+[23:31:46.293] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-role.js" 加载成功
+
+[23:31:46.293] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-team.js"
+
+[23:31:46.303] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换队伍"
+
+[23:31:46.303] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-team.js" 加载成功
+
+[23:31:46.303] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "teleport.js"
+
+[23:31:46.318] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "tp"
+
+[23:31:46.319] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "传送"
+
+[23:31:46.319] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "teleport.js" 加载成功
+
+[23:31:46.319] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait-main-ui.js"
+
+[23:31:46.334] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待返回主界面"
+
+[23:31:46.334] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待主界面"
+
+[23:31:46.334] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait-main-ui.js" 加载成功
+
+[23:31:46.334] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait.js"
+
+[23:31:46.350] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待"
+
+[23:31:46.350] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait.js" 加载成功
+
+[23:31:46.350] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器动态加载完成，共注册 16 个处理器
+
+[23:31:46.350] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:31:46.354] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:31:46.354] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:31:46.354] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行原神每日委托识别脚本
+
+[23:31:46.928] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:31:46.928] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始读取支持的委托列表: "name.json"
+
+[23:31:46.937] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的战斗委托列表，共 13 个
+
+[23:31:46.937] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的对话委托列表，共 38 个
+
+[23:31:46.937] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+加载委托数据完成: 战斗委托 13 个，对话委托 38 个
+
+[23:31:46.937] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的战斗委托: 13 个
+
+[23:31:46.937] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的对话委托: 38 个
+
+[23:31:46.939] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:31:46.939] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:31:48.143] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:31:49.159] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:31:49.159] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤1: 使用识别前3个委托
+
+[23:31:49.159] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第1个委托区域 (796, 293) (1236, 333)
+
+[23:31:49.188] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个区域OCR识别结果数量: 1
+
+[23:31:49.199] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""丘丘人的一小步""
+
+[23:31:49.200] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第2个委托区域 (796, 401) (1236, 441)
+
+[23:31:49.232] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个区域OCR识别结果数量: 1
+
+[23:31:49.232] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个委托: ""圆滚滚的易爆品""
+
+[23:31:49.232] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第3个委托区域 (796, 509) (1236, 549)
+
+[23:31:49.259] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个区域OCR识别结果数量: 1
+
+[23:31:49.259] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个委托: ""临危受命""
+
+[23:31:49.259] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤2: 检测所有委托的完成状态
+
+[23:31:49.260] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[23:31:49.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托1 "丘丘人的一小步" 未完成，查看详情
+
+[23:31:49.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第1个委托详情: "丘丘人的一小步"
+
+[23:31:49.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 320)
+
+[23:31:50.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:31:50.580] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:31:50.581] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:31:50.626] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 的地点: "鹰翔海滩"
+
+[23:31:50.626] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:31:52.909] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1518.2266, 1750.4214)
+
+[23:31:54.425] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托2的完成状态（图像识别）
+
+[23:31:54.429] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托2 "圆滚滚的易爆品" 未完成，查看详情
+
+[23:31:54.429] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第2个委托详情: "圆滚滚的易爆品"
+
+[23:31:54.429] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 440)
+
+[23:31:55.728] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:31:55.729] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:31:55.729] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:31:55.754] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 的地点: "苍风高地"
+
+[23:31:55.754] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:31:58.050] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-758.66797, 1635.4023)
+
+[23:31:59.571] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[23:31:59.578] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托3 "临危受命" 未完成，查看详情
+
+[23:31:59.578] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第3个委托详情: "临危受命"
+
+[23:31:59.578] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 530)
+
+[23:32:00.895] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:32:00.895] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:32:00.895] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:32:00.911] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 的地点: "奔狼领"
+
+[23:32:00.911] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:32:03.219] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-324.80273, 2187.8123)
+
+[23:32:04.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤3: 翻页后识别第4个委托
+
+[23:32:04.732] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:32:05.595] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第4个委托区域 (796, 544) (1236, 584)
+
+[23:32:05.633] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个区域OCR识别结果数量: 1
+
+[23:32:05.633] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个委托: ""诗歌交流""
+
+[23:32:05.634] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:32:05.638] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托4 "诗歌交流" 未完成，查看详情
+
+[23:32:05.638] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第4个委托详情: "诗歌交流"
+
+[23:32:05.638] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 560)
+
+[23:32:06.957] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:32:06.957] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:32:06.957] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:32:06.980] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "诗歌交流" 的地点: "坠星山谷"
+
+[23:32:06.980] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:32:09.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1473.1543, 2145.547)
+
+[23:32:10.781] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+完整委托列表:
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. "丘丘人的一小步" "(鹰翔海滩)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. "圆滚滚的易爆品" "(苍风高地)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+3. "临危受命" "(奔狼领)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+4. "诗歌交流" "(坠星山谷)" "{蒙德}" "[talk]" - "✅ 支持"
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别成功，开始保存数据
+
+[23:32:10.782] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+保存委托数据到文件...
+
+[23:32:10.798] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托数据已保存到: "Data/commissions_data.json"
+
+[23:32:10.822] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托报告已保存到: "Data/commissions_report.txt"
+
+[23:32:10.822] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别完成，共识别到 4 个委托，其中 4 个受支持
+
+[23:32:10.822] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托前准备
+
+[23:32:11.867] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:32:13.270] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:32:13.745] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1294,4355, Y = 1631,0342 }"
+
+[23:32:13.745] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:32:14.630] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[23:32:15.548] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:32:24.520] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 7 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:32:25.232] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:32:34.403] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:32:39.410] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托追踪 - 按距离排序模式
+
+[23:32:40.458] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的委托数据，共 4 个
+
+[23:32:40.458] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "丘丘人的一小步" ("鹰翔海滩") ["fight"]
+
+[23:32:40.458] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1518.2266, 1750.4214)
+
+[23:32:40.471] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/丘丘人的一小步/鹰翔海滩-1.json" 获取到目标坐标: (-1499.19, 1767.11)
+
+[23:32:40.472] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/丘丘人的一小步/鹰翔海滩-1.json" 目标位置: (-1499.19, 1767.11)，距离: 25.316013214317827
+
+[23:32:40.472] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/鹰翔海滩-2.json"
+
+[23:32:40.472] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/鹰翔海滩-3.json"
+
+[23:32:40.473] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:32:40.473] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/丘丘人的一小步/鹰翔海滩-1.json", 距离: 25.316013214317827
+
+[23:32:40.473] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/丘丘人的一小步/鹰翔海滩-1.json" (距离: 25.316013214317827)
+
+[23:32:40.818] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:32:40.868] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:32:42.591] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 10026,31, Y = -2614,7793 }"
+
+[23:32:42.591] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:32:43.504] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:32:44.416] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:32:51.820] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 6 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:32:52.541] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:32:56.876] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:32:57.492] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1435,9","1678,2")
+
+[23:33:00.981] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:01.056] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1447,0","1687,1")
+
+[23:33:03.911] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:04.045] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1481,0","1719,5")
+
+[23:33:12.042] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:12.128] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1507,7","1741,7")
+
+[23:33:17.892] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:18.021] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1519,0","1749,8")
+
+[23:33:20.325] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:20.325] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:33:22.236] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:33:22.347] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1519,0","1757,7")
+
+[23:33:23.016] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:33:24.158] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+尝试切换角色"莱依拉"失败！
+
+[23:33:24.668] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:33:24.668] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:33:24.668] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:33:24.680] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:33:24.726] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+Could not find a part of the path 'C:\Users\echo-nova\AppData\Local\Temp\log\avatar_side_classify_error.png'.
+
+[23:33:25.740] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:33:25.786] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:33:25.786] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:33:33.779] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:198 秒
+
+[23:33:50.191] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具"
+
+[23:33:50.277] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具一"
+
+[23:33:50.332] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："皮损的面具"
+
+[23:33:50.572] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具"
+
+[23:33:55.472] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："沉重号角"
+
+[23:33:55.572] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："兄重号角"
+
+[23:35:25.963] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:35:26.980] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+当前角色血量过低，去七天神像恢复
+
+[23:35:28.360] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:35:28.829] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1531,9844, Y = 1778,2041 }"
+
+[23:35:28.829] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:35:29.638] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+切换区域失败："纳塔"
+
+[23:35:30.159] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 1 次
+
+[23:35:30.160] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 1 次
+System.Exception: 当前未处于大地图界面，不能使用GetBigMapScale方法
+   at BetterGenshinImpact.GameTask.Common.BgiVision.Bv.GetBigMapScale(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\BgiVision\BvStatus.cs:line 161
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.GetBigMapZoomLevel(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 1026
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpOnce(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 248
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.Tp(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 448
+
+[23:35:31.645] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1531,9844, Y = 1778,2041 }"
+
+[23:35:31.645] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:35:32.398] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+切换区域失败："纳塔"
+
+[23:35:32.908] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 2 次
+
+[23:35:32.908] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 2 次
+System.Exception: 当前未处于大地图界面，不能使用GetBigMapScale方法
+   at BetterGenshinImpact.GameTask.Common.BgiVision.Bv.GetBigMapScale(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\BgiVision\BvStatus.cs:line 161
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.GetBigMapZoomLevel(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 1026
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpOnce(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 248
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.Tp(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 448
+
+[23:35:34.385] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1529,2773, Y = 1778,3408 }"
+
+[23:35:34.385] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:35:35.150] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+切换区域失败："纳塔"
+
+[23:35:35.665] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 3 次
+
+[23:35:35.665] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+传送失败，重试 3 次
+System.Exception: 当前未处于大地图界面，不能使用GetBigMapScale方法
+   at BetterGenshinImpact.GameTask.Common.BgiVision.Bv.GetBigMapScale(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\BgiVision\BvStatus.cs:line 161
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.GetBigMapZoomLevel(ImageRegion region) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 1026
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpOnce(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 248
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.Tp(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 448
+
+[23:35:35.666] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+5秒后恢复自动拾取:1
+
+[23:35:35.668] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+执行地图追踪时候发生错误
+System.InvalidOperationException: 传送失败
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.Tp(Double tpX, Double tpY, String mapName, Boolean force) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 469
+   at BetterGenshinImpact.GameTask.AutoTrackPath.TpTask.TpToStatueOfTheSeven() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoTrackPath\TpTask.cs:line 108
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.<>c__DisplayClass54_0.<<TpStatueOfTheSeven>b__0>d.MoveNext() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 622
+--- End of stack trace from previous location ---
+   at BetterGenshinImpact.GameTask.RunnerContext.StopAutoPickRunTask(Func`1 taskFactory, Int32 time) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\RunnerContext.cs:line 183
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.TpStatueOfTheSeven() in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 622
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.RecoverWhenLowHp(WaypointForTrack waypoint) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 604
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.Pathing(PathingTask task) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 184
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.Run(String json) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 33
+
+[23:35:35.669] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+执行地图追踪时候发生错误: "传送失败"
+
+[23:35:35.669] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:35:40.721] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+恢复自动拾取:0
+
+[23:35:41.135] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:35:41.135] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:35:41.135] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:35:42.339] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:35:43.239] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:35:44.095] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:35:44.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 未完成
+
+[23:35:44.101] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "丘丘人的一小步" 最近脚本执行失败，重试次数: 0/1
+
+[23:35:44.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "丘丘人的一小步"...
+
+[23:35:45.113] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 第 1 次重试执行
+
+[23:35:45.114] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/丘丘人的一小步/鹰翔海滩-1.json" 获取到目标坐标: (-1499.19, 1767.11)
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/丘丘人的一小步/鹰翔海滩-1.json" 目标位置: (-1499.19, 1767.11)，距离: 25.316013214317827
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/鹰翔海滩-2.json"
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/丘丘人的一小步/鹰翔海滩-3.json"
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/丘丘人的一小步/鹰翔海滩-1.json", 距离: 25.316013214317827
+
+[23:35:45.114] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/丘丘人的一小步/鹰翔海滩-1.json" (距离: 25.316013214317827)
+
+[23:35:51.034] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1527,7637, Y = 1767,3662 }"
+
+[23:35:51.034] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[23:35:51.436] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:35:55.730] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:35:56.341] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1435,9","1678,2")
+
+[23:36:01.844] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:01.980] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1447,0","1687,1")
+
+[23:36:04.948] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:05.030] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1481,0","1719,5")
+
+[23:36:13.253] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:13.336] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1507,7","1741,7")
+
+[23:36:19.291] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:19.415] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1519,0","1749,8")
+
+[23:36:21.589] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:21.590] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:36:23.506] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:36:23.592] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1519,0","1757,7")
+
+[23:36:24.279] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:36:24.873] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"莱依拉"
+
+[23:36:26.601] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:36:26.601] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:36:26.602] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:36:26.607] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:36:26.651] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:36:26.651] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:36:26.901] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:105 秒
+
+[23:36:32.041] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:198 秒
+
+[23:38:24.543] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:76 秒
+
+[23:38:27.358] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:38:28.484] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1499,2","1767,1")
+
+[23:38:29.561] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:38:30.156] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"莱依拉"
+
+[23:38:30.497] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:17 秒
+
+[23:38:39.727] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:38:39.727] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:38:39.728] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:38:39.733] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:38:39.765] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:38:39.765] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:38:46.293] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:40:37.520] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:40:37.520] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:40:39.623] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_CONTROL的按下状态.
+
+[23:40:39.623] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_Q的按下状态.
+
+[23:40:39.624] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_LCONTROL的按下状态.
+
+[23:40:39.624] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+取消自动任务
+
+[23:40:39.624] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:40:39.625] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:40:39.625] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:40:39.625] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:40:39.628] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+进入委托界面失败: ["[hostException, System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.Task.GetExceptions(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.ContinueWithCore(Task continuationTask, TaskScheduler scheduler, CancellationToken cancellationToken, TaskContinuationOptions options)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass145_0`1.<Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask>b__0(Object resolve, Object reject)
+   at InvokeStub_Action`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask[T](Task`1 task)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.MarshalToScript(Object obj, HostItemFlags flags)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.RunFile(String path) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 54
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.Run(String json) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 40
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.Pathing(PathingTask task) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 277
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.AfterMoveToTarget(WaypointForTrack waypoint) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 1079
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.Handler.AutoFightHandler.RunAsync(CancellationToken ct, WaypointForTrack waypointForTrack, Object config) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\Handler\AutoFightHandler.cs:line 23
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoPathing.Handler.AutoFightHandler.StartFight(CancellationToken ct, Object config, WaypointForTrack waypointForTrack) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\Handler\AutoFightHandler.cs:line 71
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField)
+   at BetterGenshinImpact.GameTask.AutoFight.AutoFightTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoFight\AutoFightTask.cs:line 448
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.TrySetException(Object exceptionObject)
+   at System.Threading.Tasks.UnwrapPromise`1.TrySetFromTask(Task task, Boolean lookForOce)
+   at System.Threading.Tasks.UnwrapPromise`1.ProcessInnerTask(Task task)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)]"]
+
+[23:40:39.628] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+无法进入委托界面
+
+[23:40:39.628] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 未完成
+
+[23:40:39.628] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "丘丘人的一小步" 最近脚本执行失败，重试次数: 1/1
+
+[23:40:39.628] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 重试 1 次后仍未完成，跳过该委托
+
+[23:40:39.628] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:40:39.628] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "圆滚滚的易爆品" ("苍风高地") ["fight"]
+
+[23:40:39.628] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-758.66797, 1635.4023)
+
+[23:40:39.640] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/圆滚滚的易爆品/苍风高地-1.json" 获取到目标坐标: (-775.1943359375001, 1663.1401)
+
+[23:40:39.640] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/圆滚滚的易爆品/苍风高地-1.json" 目标位置: (-775.1943359375001, 1663.1401)，距离: 32.287861050142624
+
+[23:40:39.641] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-2.json"
+
+[23:40:39.641] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-3.json"
+
+[23:40:39.641] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:40:39.641] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/圆滚滚的易爆品/苍风高地-1.json", 距离: 32.287861050142624
+
+[23:40:39.641] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/圆滚滚的易爆品/苍风高地-1.json" (距离: 32.287861050142624)
+
+[23:40:39.726] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+执行地图追踪时候发生错误
+BetterGenshinImpact.GameTask.AutoGeniusInvokation.Exception.NormalEndException: 取消自动任务
+   at BetterGenshinImpact.GameTask.Common.TaskControl.Delay(Int32 millisecondsTimeout, CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\Common\TaskControl.cs:line 160
+   at BetterGenshinImpact.GameTask.AutoPathing.PathExecutor.Pathing(PathingTask task) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoPathing\PathExecutor.cs:line 162
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.Run(String json) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 33
+
+[23:40:39.727] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+执行地图追踪时候发生错误: "取消自动任务"
+
+[23:40:39.727] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:40:39.727] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[23:40:39.727] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:40:39.727] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:40:39.730] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+进入委托界面失败: ["[hostException, System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.Task.GetExceptions(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.ContinueWithCore(Task continuationTask, TaskScheduler scheduler, CancellationToken cancellationToken, TaskContinuationOptions options)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass145_0`1.<Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask>b__0(Object resolve, Object reject)
+   at InvokeStub_Action`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.Microsoft.ClearScript.JavaScript.IJavaScriptEngine.CreatePromiseForTask[T](Task`1 task)
+   at InvokeStub_TaskConverter`1.ToPromise(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.MarshalToScript(Object obj, HostItemFlags flags)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostObjectFastMethodPtr>g__Thunk|120_0(IntPtr pObject, StdBool asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Object_InvokeMethod(Handle hObject, Ptr pName, Ptr pArgs, Ptr pResult)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.Microsoft.ClearScript.V8.SplitProxy.IV8SplitProxyNative.V8Object_InvokeMethod(Handle hObject, String name, Object[] args)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ObjectImpl.<>c__DisplayClass27_0.<InvokeMethod>b__0(IV8SplitProxyNative instance)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke[T](Func`2 func)
+   at Microsoft.ClearScript.ScriptEngine.ScriptInvokeInternal[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.<>c__DisplayClass137_0`1.<ScriptInvoke>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostAction(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.<get_InvokeHostActionFastMethodPtr>g__Thunk|108_0(IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Impl_Windows_X64.V8Context_InvokeWithLock(Handle hContext, IntPtr pAction)
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyNative.Invoke(Action`1 action)
+   at Microsoft.ClearScript.V8.SplitProxy.V8ContextProxyImpl.InvokeWithLock(Action action)
+   at Microsoft.ClearScript.V8.V8ScriptEngine.ScriptInvoke[T](Func`1 func)
+   at Microsoft.ClearScript.V8.V8ScriptItem.InvokeMethod(Boolean marshalResult, String name, Object[] args)
+   at System.Threading.Tasks.ContinuationTaskFromResultTask`1.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+   at System.Threading.Tasks.ThreadPoolTaskScheduler.TryExecuteTaskInline(Task task, Boolean taskWasPreviouslyQueued)
+   at System.Threading.Tasks.TaskContinuation.InlineIfPossibleOrElseQueue(Task task, Boolean needsProtection)
+   at System.Threading.Tasks.ContinueWithTaskContinuation.Run(Task completedTask, Boolean canInlineContinuationTask)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.SetResult()
+   at BetterGenshinImpact.Core.Script.Dependence.AutoPathingScript.RunFile(String path) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\AutoPathingScript.cs:line 54
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetResult(TResult result)
+   at BetterGenshinImpact.Core.Script.Dependence.LimitedFile.ReadText(String path) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\Core\Script\Dependence\LimitedFile.cs:line 84
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext()
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result)
+   at System.IO.StreamReader.ReadAsyncInternal(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining)
+   at System.Threading.Tasks.Task.RunContinuations(Object continuationObject)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result)
+   at System.IO.StreamReader.ReadBufferAsync(CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread)
+   at System.IO.Strategies.BufferedFileStreamStrategy.ReadAsyncSlowPath(Task semaphoreLockTask, Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at InvokeStub_Func`1.Invoke(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at Microsoft.ClearScript.Util.InvokeHelpers.InvokeMethodInternal[T](IHostContext context, T method, Object target, Object[] args, Func`4 invoker, Type returnType, ScriptMemberFlags flags)
+   at Microsoft.ClearScript.HostItem.InvokeHostMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.InvokeMember(String name, BindingFlags invokeFlags, Object[] args, Object[] bindArgs, CultureInfo culture, Boolean bypassTunneling, Boolean& isCacheable)
+   at Microsoft.ClearScript.HostItem.<>c__DisplayClass151_0.<InvokeReflectMember>b__0()
+   at Microsoft.ClearScript.V8.SplitProxy.V8SplitProxyManaged.InvokeHostObject(IntPtr pObject, Boolean asConstructor, Int32 argCount, Ptr pArgs, Ptr pResult)]"]
+
+[23:40:39.730] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+无法进入委托界面
+
+[23:40:39.730] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 未完成
+
+[23:40:39.730] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "圆滚滚的易爆品" 最近脚本执行失败，重试次数: 0/1
+
+[23:40:39.730] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "圆滚滚的易爆品"...
+
+[23:40:39.731] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+执行委托追踪时出错: "A task was canceled."
+
+[23:40:39.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:39.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:40:39.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:40:39.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:39.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+每日委托执行完成，前往安全地点
+
+[23:40:39.737] [ERR] BetterGenshinImpact.Core.Script.Dependence.Log
+执行出错: "取消自动任务"
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+脚本执行完成，总耗时: 533 秒
+
+[23:40:39.737] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+模块化主文件加载完成
+
+[23:40:39.747] [INF] BetterGenshinImpact.Service.ScriptService
+→ 脚本执行结束: "(对话+成就)全自动蒙德地区每日委托", 耗时: 8分53.827秒
+
+[23:40:39.747] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:40:40.344] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:40:40.344] [ERR] BetterGenshinImpact.GameTask.TaskRunner
+任务启动失败：当前存在正在运行中的独立任务，请不要重复执行任务！
+
+[23:40:41.769] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[23:40:41.781] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 执行结束
+
+[23:40:42.791] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+任务被取消，退出执行
+
+[23:40:44.952] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:40:44.952] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[23:40:44.954] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+→ "自动秘境，" 指定使用树脂
+
+[23:40:48.360] [INF] BetterGenshinImpact.GameTask.TaskRunner
+任务中断:"任务被取消"
+
+[23:40:48.372] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[23:40:53.760] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙配置：蒙德委托过渡
+
+[23:40:53.760] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用任务总数量: 3
+
+[23:40:53.762] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙任务的数量: 2
+
+[23:40:53.762] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用配置组任务的数量: 1
+
+[23:40:53.762] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+配置组任务执行: 1/1
+
+[23:40:54.269] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 加载完成，共1个脚本，开始执行
+
+[23:40:54.269] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[23:40:54.276] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:40:54.276] [INF] BetterGenshinImpact.Service.ScriptService
+→ 开始执行JS脚本: "(对话+成就)全自动蒙德地区每日委托"
+
+[23:40:54.305] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:54.305] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:40:54.305] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+编译时间: "2025.08.14"
+
+[23:40:54.306] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+====================
+
+[23:40:54.306] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器...
+
+[23:40:54.307] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+发现 13 个步骤处理器文件
+
+[23:40:54.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "auto-task.js"
+
+[23:40:54.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "自动任务"
+
+[23:40:54.308] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "auto-task.js" 加载成功
+
+[23:40:54.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-description-detection.js"
+
+[23:40:54.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托描述检测"
+
+[23:40:54.308] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-description-detection.js" 加载成功
+
+[23:40:54.308] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "commission-tracking.js"
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "追踪委托"
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "委托追踪"
+
+[23:40:54.309] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "commission-tracking.js" 加载成功
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "dialog.js"
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "对话"
+
+[23:40:54.309] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "dialog.js" 加载成功
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-mouse-script.js"
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "键鼠脚本"
+
+[23:40:54.309] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-mouse-script.js" 加载成功
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "key-press.js"
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "按键"
+
+[23:40:54.309] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "key-press.js" 加载成功
+
+[23:40:54.309] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "location-detection.js"
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地址检测"
+
+[23:40:54.310] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "location-detection.js" 加载成功
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "map-tracking.js"
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "地图追踪"
+
+[23:40:54.310] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "map-tracking.js" 加载成功
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-role.js"
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换角色"
+
+[23:40:54.310] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-role.js" 加载成功
+
+[23:40:54.310] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "switch-team.js"
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "切换队伍"
+
+[23:40:54.311] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "switch-team.js" 加载成功
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "teleport.js"
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "tp"
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "传送"
+
+[23:40:54.311] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "teleport.js" 加载成功
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait-main-ui.js"
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待返回主界面"
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待主界面"
+
+[23:40:54.311] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait-main-ui.js" 加载成功
+
+[23:40:54.311] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+正在加载步骤处理器: "wait.js"
+
+[23:40:54.312] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+注册步骤处理器: "等待"
+
+[23:40:54.312] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器 "wait.js" 加载成功
+
+[23:40:54.312] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤处理器动态加载完成，共注册 16 个处理器
+
+[23:40:54.312] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.4"
+
+[23:40:54.313] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:40:54.313] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:40:54.313] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行原神每日委托识别脚本
+
+[23:40:54.364] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始读取支持的委托列表: "name.json"
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的战斗委托列表，共 13 个
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的对话委托列表，共 38 个
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+加载委托数据完成: 战斗委托 13 个，对话委托 38 个
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的战斗委托: 13 个
+
+[23:40:54.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的对话委托: 38 个
+
+[23:40:54.366] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:40:54.389] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:40:55.586] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:40:56.588] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[23:40:56.588] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤1: 使用识别前3个委托
+
+[23:40:56.589] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第1个委托区域 (796, 293) (1236, 333)
+
+[23:40:56.626] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个区域OCR识别结果数量: 1
+
+[23:40:56.627] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""圆滚滚的易爆品""
+
+[23:40:56.627] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第2个委托区域 (796, 401) (1236, 441)
+
+[23:40:56.670] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个区域OCR识别结果数量: 1
+
+[23:40:56.670] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个委托: ""临危受命""
+
+[23:40:56.670] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第3个委托区域 (796, 509) (1236, 549)
+
+[23:40:56.694] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个区域OCR识别结果数量: 1
+
+[23:40:56.694] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个委托: ""诗歌交流""
+
+[23:40:56.694] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤2: 检测所有委托的完成状态
+
+[23:40:56.694] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[23:40:56.698] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托1 "圆滚滚的易爆品" 未完成，查看详情
+
+[23:40:56.698] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第1个委托详情: "圆滚滚的易爆品"
+
+[23:40:56.698] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 320)
+
+[23:40:58.028] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:40:58.029] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:40:58.029] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:40:58.072] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 的地点: "苍风高地"
+
+[23:40:58.072] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:41:00.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-758.66797, 1635.4023)
+
+[23:41:01.873] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托2的完成状态（图像识别）
+
+[23:41:01.879] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托2 "临危受命" 未完成，查看详情
+
+[23:41:01.879] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第2个委托详情: "临危受命"
+
+[23:41:01.879] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 440)
+
+[23:41:03.197] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:41:03.197] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:41:03.197] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:41:03.221] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 的地点: "奔狼领"
+
+[23:41:03.221] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:41:05.493] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-324.80273, 2187.812)
+
+[23:41:07.011] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[23:41:07.015] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托3 "诗歌交流" 未完成，查看详情
+
+[23:41:07.015] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第3个委托详情: "诗歌交流"
+
+[23:41:07.015] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 530)
+
+[23:41:08.345] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[23:41:08.345] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: "蒙德"
+
+[23:41:08.345] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[23:41:08.389] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "诗歌交流" 的地点: "坠星山谷"
+
+[23:41:08.389] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:41:10.673] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1473.1543, 2145.547)
+
+[23:41:12.202] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤3: 翻页后识别第4个委托
+
+[23:41:12.203] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[23:41:13.062] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第4个委托区域 (796, 544) (1236, 584)
+
+[23:41:13.093] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个区域OCR识别结果数量: 1
+
+[23:41:13.093] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个委托: ""丘丘人的一小步""
+
+[23:41:13.093] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托4 "丘丘人的一小步" 已完成，跳过详情查看
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+完整委托列表:
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. "圆滚滚的易爆品" "(苍风高地)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. "临危受命" "(奔狼领)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+3. "诗歌交流" "(坠星山谷)" "{蒙德}" "[talk]" - "✅ 支持"
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+4. "丘丘人的一小步" "(已完成)" "" "[fight]" - "✅ 支持"
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别成功，开始保存数据
+
+[23:41:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+保存委托数据到文件...
+
+[23:41:13.100] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托数据已保存到: "Data/commissions_data.json"
+
+[23:41:13.100] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托报告已保存到: "Data/commissions_report.txt"
+
+[23:41:13.100] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别完成，共识别到 4 个委托，其中 4 个受支持
+
+[23:41:13.100] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托前准备
+
+[23:41:14.138] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, ]", "[skipCommissions, ]"]
+
+[23:41:15.509] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:41:15.959] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1493,2969, Y = 1744,9307 }"
+
+[23:41:15.959] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:41:16.898] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[23:41:17.811] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:41:22.932] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 4 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:41:23.651] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:41:27.959] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:41:32.965] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托追踪 - 按距离排序模式
+
+[23:41:34.007] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的委托数据，共 4 个
+
+[23:41:34.007] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "圆滚滚的易爆品" ("苍风高地") ["fight"]
+
+[23:41:34.007] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-758.66797, 1635.4023)
+
+[23:41:34.009] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/圆滚滚的易爆品/苍风高地-1.json" 获取到目标坐标: (-775.1943359375001, 1663.1401)
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/圆滚滚的易爆品/苍风高地-1.json" 目标位置: (-775.1943359375001, 1663.1401)，距离: 32.287861050142624
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-2.json"
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-3.json"
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/圆滚滚的易爆品/苍风高地-1.json", 距离: 32.287861050142624
+
+[23:41:34.009] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/圆滚滚的易爆品/苍风高地-1.json" (距离: 32.287861050142624)
+
+[23:41:34.369] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:41:34.406] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:41:36.126] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 10026,31, Y = -2614,7793 }"
+
+[23:41:36.126] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:41:37.077] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:41:37.983] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:41:41.051] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 3 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:41:41.766] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:41:46.094] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:41:46.722] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-882,5","1683,0")
+
+[23:41:48.955] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:41:49.048] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-868,9","1684,7")
+
+[23:41:51.627] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:41:51.707] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-853,3","1688,8")
+
+[23:41:54.681] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:41:54.753] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-838,1","1672,7")
+
+[23:41:58.018] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:41:58.145] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-819,5","1665,3")
+
+[23:42:02.507] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:02.612] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-807,6","1655,2")
+
+[23:42:05.875] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:05.995] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-793,2","1650,6")
+
+[23:42:09.130] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:09.222] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-780,2","1655,1")
+
+[23:42:09.908] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:42:11.035] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+尝试切换角色"莱依拉"失败！
+
+[23:42:22.695] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:22.695] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:42:22.696] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:42:22.701] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:42:22.738] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:42:22.738] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:42:23.278] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[23:42:25.261] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:42:25.746] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -780,3828, Y = 1654,9458 }"
+
+[23:42:25.746] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:42:26.737] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[23:42:27.664] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:42:32.782] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 4 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:42:33.511] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:42:37.855] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:42:42.870] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+血量恢复完成。【设置】-【七天神像设置】可以修改回血相关配置。
+
+[23:42:42.871] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+记录恢复点位，地图追踪将到达上次点位之前将跳过走路之外的操作
+
+[23:42:42.871] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[23:42:44.455] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 10026,31, Y = -2614,7793 }"
+
+[23:42:44.455] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:42:45.368] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:42:46.280] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:42:49.385] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 3 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:42:50.099] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:42:54.417] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:42:55.068] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-882,5","1683,0")
+
+[23:42:56.552] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:56.631] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-868,9","1684,7")
+
+[23:42:58.811] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:42:58.914] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-853,3","1688,8")
+
+[23:43:01.210] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:01.286] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-838,1","1672,7")
+
+[23:43:04.303] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:04.442] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-819,5","1665,3")
+
+[23:43:09.086] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:09.195] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-807,6","1655,2")
+
+[23:43:11.688] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:11.774] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-793,2","1650,6")
+
+[23:43:14.641] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:14.641] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达上次点位，地图追踪功能恢复
+
+[23:43:14.739] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-780,2","1655,1")
+
+[23:43:15.376] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:43:15.954] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"莱依拉"
+
+[23:43:19.853] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:43:19.854] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:43:19.854] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:43:19.860] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:43:19.914] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:43:19.914] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:43:21.304] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:71 秒
+
+[23:43:28.488] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:43:56.196] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："沉重号角"
+
+[23:43:56.445] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："黑铜号角"
+
+[23:43:56.647] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："游医的药壶"
+
+[23:43:57.046] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："游医的药壶"
+
+[23:44:47.990] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："白萝卜"
+
+[23:44:56.692] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："苹果"
+
+[23:44:57.033] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："苹果"
+
+[23:45:16.103] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[23:45:21.190] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:45:21.642] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -763,8125, Y = 1651,6802 }"
+
+[23:45:21.642] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:45:22.547] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[23:45:23.458] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:45:31.118] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 6 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:45:31.833] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:45:36.148] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:45:41.158] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+血量恢复完成。【设置】-【七天神像设置】可以修改回血相关配置。
+
+[23:45:41.158] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+记录恢复点位，地图追踪将到达上次点位之前将跳过走路之外的操作
+
+[23:45:41.159] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到复苏界面，存在角色被击败，前往七天神像复活
+
+[23:45:41.159] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:45:41.160] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 1
+
+[23:45:41.160] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:45:41.160] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:45:42.349] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:45:43.258] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[23:45:43.262] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 未完成
+
+[23:45:43.262] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+战斗委托 "圆滚滚的易爆品" 最近脚本执行失败，重试次数: 0/1
+
+[23:45:43.262] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "圆滚滚的易爆品"...
+
+[23:45:44.274] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 第 1 次重试执行
+
+[23:45:44.275] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/圆滚滚的易爆品/苍风高地-1.json" 获取到目标坐标: (-775.1943359375001, 1663.1401)
+
+[23:45:44.275] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/圆滚滚的易爆品/苍风高地-1.json" 目标位置: (-775.1943359375001, 1663.1401)，距离: 32.287861050142624
+
+[23:45:44.275] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-2.json"
+
+[23:45:44.275] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/苍风高地-3.json"
+
+[23:45:44.275] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:45:44.275] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/圆滚滚的易爆品/苍风高地-1.json", 距离: 32.287861050142624
+
+[23:45:44.276] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/圆滚滚的易爆品/苍风高地-1.json" (距离: 32.287861050142624)
+
+[23:45:50.176] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 10026,31, Y = -2614,7793 }"
+
+[23:45:50.176] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:45:51.105] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:45:52.014] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:45:55.072] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 3 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:45:55.796] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:46:00.109] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:46:00.731] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-882,5","1683,0")
+
+[23:46:02.808] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:02.912] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-868,9","1684,7")
+
+[23:46:05.523] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:05.605] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-853,3","1688,8")
+
+[23:46:08.378] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:08.511] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-838,1","1672,7")
+
+[23:46:11.923] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:12.021] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-819,5","1665,3")
+
+[23:46:16.540] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:16.625] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-807,6","1655,2")
+
+[23:46:19.744] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:19.830] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-793,2","1650,6")
+
+[23:46:22.986] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:23.068] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-780,2","1655,1")
+
+[23:46:23.801] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:46:24.384] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"莱依拉"
+
+[23:46:27.807] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:46:27.807] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:46:27.808] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:46:27.813] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:46:27.854] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:46:27.854] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:46:28.122] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:89 秒
+
+[23:46:33.271] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:46:35.132] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："导能绘卷"
+
+[23:46:35.455] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："导能绘卷"
+
+[23:46:58.880] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具"
+
+[23:48:25.746] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:77 秒
+
+[23:48:28.587] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:48:29.691] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-775,2","1663,1")
+
+[23:48:30.758] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:48:31.897] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+尝试切换角色"莱依拉"失败！
+
+[23:48:37.062] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："卷心菜"
+
+[23:48:37.400] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："卷心菜"
+
+[23:48:40.924] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具"
+
+[23:48:41.045] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:48:41.045] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:48:41.045] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:48:41.051] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍下偏移，进行位置偏移
+
+[23:48:41.084] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:48:41.084] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:48:41.207] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："破损的面具"
+
+[23:48:47.640] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:199 秒
+
+[23:50:40.180] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:77 秒
+
+[23:50:43.017] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:50:44.031] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:50:44.031] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 1
+
+[23:50:44.032] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:50:44.032] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:50:45.223] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:50:46.130] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[23:50:46.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 已完成
+
+[23:50:46.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 执行成功
+
+[23:50:46.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:50:46.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "临危受命" ("奔狼领") ["fight"]
+
+[23:50:46.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-324.80273, 2187.812)
+
+[23:50:46.153] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/临危受命/奔狼领-1.json" 获取到目标坐标: (-318, 2184.88)
+
+[23:50:46.154] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/临危受命/奔狼领-1.json" 目标位置: (-318, 2184.88)，距离: 7.407691117729824
+
+[23:50:46.167] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/临危受命/奔狼领-2.json" 获取到目标坐标: (-277.56, 2386.81)
+
+[23:50:46.167] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/临危受命/奔狼领-2.json" 目标位置: (-277.56, 2386.81)，距离: 204.52891064886475
+
+[23:50:46.168] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/临危受命/奔狼领-3.json"
+
+[23:50:46.168] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[23:50:46.168] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/临危受命/奔狼领-1.json", 距离: 7.407691117729824
+
+[23:50:46.168] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. 脚本: "assets/临危受命/奔狼领-2.json", 距离: 204.52891064886475
+
+[23:50:46.168] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行最近的脚本: "assets/临危受命/奔狼领-1.json" (距离: 7.407691117729824)
+
+[23:50:52.151] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -759,99414, Y = 1658,0059 }"
+
+[23:50:52.152] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:50:53.076] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:50:53.990] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:50:58.316] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:50:58.943] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-240,8","2239,4")
+
+[23:50:59.557] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:51:00.704] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+尝试切换角色"莱依拉"失败！
+
+[23:51:04.261] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:04.341] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-240,1","2223,1")
+
+[23:51:07.769] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:07.876] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-238,7","2213,9")
+
+[23:51:17.705] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:17.794] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-241,4","2203,0")
+
+[23:51:21.177] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:21.279] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-246,8","2194,9")
+
+[23:51:27.440] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:27.532] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-264,3","2178,3")
+
+[23:51:28.227] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:51:33.425] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:33.558] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-289,8","2182,9")
+
+[23:51:37.893] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:38.009] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-331,4","2189,5")
+
+[23:51:40.899] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:51:44.958] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:45.035] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-325,2","2183,6")
+
+[23:51:47.155] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:47.236] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-328,0","2196,9")
+
+[23:51:50.689] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:51:50.689] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[23:51:50.690] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共54条指令，涉及角色："莱依拉,芙宁娜,希诺宁,玛薇卡"
+
+[23:51:50.697] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+检测到右侧队伍上偏移，进行位置偏移
+
+[23:51:50.728] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"玛薇卡,希诺宁,莱依拉,芙宁娜"
+
+[23:51:50.728] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："火芙希莱-精英"
+
+[23:51:56.147] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:198 秒
+
+[23:53:12.572] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："甜甜花"
+
+[23:53:12.916] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："甜甜花"
+
+[23:53:48.724] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:77 秒
+
+[23:53:51.553] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗超时结束
+
+[23:53:52.672] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-318,0","2184,9")
+
+[23:53:53.236] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:53:53.821] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"莱依拉"
+
+[23:53:54.172] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"莱依拉" 点按元素战技，cd:22 秒
+
+[23:53:57.345] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:53:57.346] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[23:53:57.347] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 2
+
+[23:53:57.347] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:53:57.347] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:53:58.544] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:53:59.450] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托2的完成状态（图像识别）
+
+[23:53:59.454] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 已完成
+
+[23:53:59.454] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 执行成功
+
+[23:53:59.454] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:53:59.454] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "诗歌交流" ("坠星山谷") ["talk"]
+
+[23:53:59.454] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1473.1543, 2145.547)
+
+[23:53:59.467] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到对话委托流程文件: "assets/process/诗歌交流/坠星山谷/process.json"
+
+[23:53:59.467] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+JSON流程解析成功
+
+[23:53:59.467] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行统一对话委托流程: "诗歌交流"
+
+[23:53:59.478] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始寻找委托目标位置: "诗歌交流"
+
+[23:54:00.516] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:54:00.517] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:54:01.715] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:54:02.722] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+findCommissionTarget识别前3个委托
+
+[23:54:02.756] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""诗歌交流""
+
+[23:54:02.756] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到委托 "诗歌交流" 在位置 1
+
+[23:54:02.756] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮: 1
+
+[23:54:04.873] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+发现追踪按钮，点击追踪
+
+[23:54:05.955] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:54:08.242] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1473.1777, 2145.5615)
+
+[23:54:10.288] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 1: "地图追踪"
+
+[23:54:10.289] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第一个地图追踪步骤"
+
+[23:54:10.289] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-1.json"
+
+[23:54:12.140] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -320,14258, Y = 2183,7896 }"
+
+[23:54:12.140] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[23:54:13.082] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[23:54:14.001] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:54:18.336] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:54:18.952] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1536,1","1982,4")
+
+[23:54:20.774] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:54:20.774] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:54:22.059] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:54:22.143] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1502,8","2070,2")
+
+[23:54:34.441] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:54:34.508] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1472,2","2081,3")
+
+[23:54:39.540] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:54:39.624] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1474,8","2133,1")
+
+[23:54:47.857] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:54:47.943] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,7","2144,1")
+
+[23:54:48.494] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:54:51.664] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:54:51.665] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1473,7","2144,1")
+
+[23:54:51.936] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:54:52.948] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:54:54.949] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 2: "对话"
+
+[23:54:54.949] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，默认跳过10次对话"
+
+[23:54:54.950] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:54:54.950] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，默认跳过10次对话
+
+[23:54:54.990] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: "任务提示"
+
+[23:54:54.991] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: "可欢"
+
+[23:54:55.045] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[23:54:55.046] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"艾拉·马斯克":位置(1217,519,180,43)
+
+[23:54:55.057] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: "艾拉·马斯克"
+
+[23:54:56.717] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:55:00.492] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[23:55:06.350] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 2 个选项
+
+[23:55:08.726] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："·…·「查证」的意思是？"
+
+[23:55:21.797] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[23:55:21.809] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[23:55:21.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:55:23.830] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 3: "地图追踪"
+
+[23:55:23.830] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第二个地图追踪步骤"
+
+[23:55:23.830] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-2.json"
+
+[23:55:24.143] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,8","2143,9")
+
+[23:55:24.688] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:55:24.769] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1456,0","2159,3")
+
+[23:55:28.667] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:55:28.760] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1476,0","2191,3")
+
+[23:55:29.451] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:55:36.555] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:55:36.555] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1476,0","2191,3")
+
+[23:55:37.088] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:55:38.093] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:55:40.104] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 4: "对话"
+
+[23:55:40.105] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+使用自定义优先选项: "Celi dada, Muhe ye!, Ye dada"
+
+[23:55:40.105] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，优先选择特定选项并与白名单NPC交互"
+
+[23:55:40.105] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:55:40.105] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+使用自定义优先选项: Celi dada, Muhe ye!, Ye dada
+
+[23:55:40.105] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，优先选择特定选项并与白名单NPC交互
+
+[23:55:40.138] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: "念诗给丘丘人听"
+
+[23:55:40.138] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+提取到人名: "丘丘人"
+
+[23:55:40.185] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[23:55:40.185] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"丘丘人":位置(1216,518,97,43)
+
+[23:55:40.196] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: "丘丘人"
+
+[23:55:41.864] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:55:49.493] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 6 个选项
+
+[23:55:49.493] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到优先选项: "Celi dada"，点击该选项
+
+[23:55:58.046] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 5 个选项
+
+[23:55:58.046] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到优先选项: "Ye dada"，点击该选项
+
+[23:56:06.438] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 3 个选项
+
+[23:56:06.439] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到优先选项: "Muhe ye!"，点击该选项
+
+[23:56:19.789] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[23:56:19.799] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[23:56:19.814] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:56:21.827] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 5: "地图追踪"
+
+[23:56:21.827] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第三个地图追踪步骤"
+
+[23:56:21.827] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-3.json"
+
+[23:56:22.125] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1476,4","2190,2")
+
+[23:56:22.655] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:56:22.731] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,3","2143,8")
+
+[23:56:23.420] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:56:32.823] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:56:32.823] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1473,3","2143,8")
+
+[23:56:34.078] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:56:35.087] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:56:37.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 6: "对话"
+
+[23:56:37.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，默认跳过10次对话"
+
+[23:56:37.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:56:37.101] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，默认跳过10次对话
+
+[23:56:37.133] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: "与艾拉·马斯克对话"
+
+[23:56:37.133] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+提取到人名: "艾拉·马斯克"
+
+[23:56:37.173] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+未找到匹配的NPC，使用默认触发方式
+
+[23:56:38.687] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:56:38.710] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:56:40.716] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+统一对话委托流程执行完成: "诗歌交流"
+
+[23:56:40.716] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 3
+
+[23:56:40.716] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:56:40.717] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:56:41.910] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:56:42.819] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[23:56:42.824] [WRN] BetterGenshinImpact.Core.Script.Dependence.Log
+对话委托 "诗歌交流" 执行后检查未完成，重试次数: 0/1
+
+[23:56:42.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+等待1秒后重试委托 "诗歌交流"...
+
+[23:56:43.837] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "诗歌交流" 第 1 次重试执行
+
+[23:56:43.837] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到对话委托流程文件: "assets/process/诗歌交流/坠星山谷/process.json"
+
+[23:56:43.837] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+JSON流程解析成功
+
+[23:56:43.837] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行统一对话委托流程: "诗歌交流"
+
+[23:56:43.838] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始寻找委托目标位置: "诗歌交流"
+
+[23:56:44.888] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:56:44.888] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:56:46.085] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:56:47.091] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+findCommissionTarget识别前3个委托
+
+[23:56:47.124] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""诗歌交流""
+
+[23:56:47.124] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到委托 "诗歌交流" 在位置 1
+
+[23:56:47.124] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮: 1
+
+[23:56:49.212] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[23:56:51.509] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1473.1777, 2145.5618)
+
+[23:56:53.569] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 1: "地图追踪"
+
+[23:56:53.569] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第一个地图追踪步骤"
+
+[23:56:53.569] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-1.json"
+
+[23:56:55.373] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1474,4727, Y = 2146,1228 }"
+
+[23:56:55.373] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[23:56:55.773] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:57:00.071] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:57:00.663] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1536,1","1982,4")
+
+[23:57:02.345] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:57:02.345] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[23:57:03.622] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[23:57:03.705] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1502,8","2070,2")
+
+[23:57:15.948] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:57:16.041] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1472,2","2081,3")
+
+[23:57:21.030] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:57:21.151] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1474,8","2133,1")
+
+[23:57:29.456] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:57:29.528] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,7","2144,1")
+
+[23:57:30.059] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:57:33.135] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:57:33.135] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1473,7","2144,1")
+
+[23:57:33.645] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:57:34.648] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:57:36.649] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 2: "对话"
+
+[23:57:36.649] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，默认跳过10次对话"
+
+[23:57:36.649] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:57:36.649] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，默认跳过10次对话
+
+[23:57:36.681] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: "与艾拉·马斯克对话"
+
+[23:57:36.681] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+提取到人名: "艾拉·马斯克"
+
+[23:57:36.733] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[23:57:36.733] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"艾拉·马斯克":位置(1217,518,180,43)
+
+[23:57:36.744] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: "艾拉·马斯克"
+
+[23:57:38.395] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:57:41.575] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[23:57:43.911] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："念完了。"
+
+[23:57:47.427] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[23:57:49.731] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："效果还不错。"
+
+[23:58:02.791] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[23:58:02.803] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[23:58:02.816] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:58:04.823] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 3: "地图追踪"
+
+[23:58:04.823] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第二个地图追踪步骤"
+
+[23:58:04.823] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-2.json"
+
+[23:58:05.240] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,8","2143,9")
+
+[23:58:05.673] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:58:05.769] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1456,0","2159,3")
+
+[23:58:09.730] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:58:09.806] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1476,0","2191,3")
+
+[23:58:10.485] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:58:17.485] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:58:17.485] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1476,0","2191,3")
+
+[23:58:17.739] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:58:18.747] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:58:20.750] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 4: "对话"
+
+[23:58:20.751] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+使用自定义优先选项: "Celi dada, Muhe ye!, Ye dada"
+
+[23:58:20.751] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，优先选择特定选项并与白名单NPC交互"
+
+[23:58:20.751] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:58:20.751] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+使用自定义优先选项: Celi dada, Muhe ye!, Ye dada
+
+[23:58:20.751] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，优先选择特定选项并与白名单NPC交互
+
+[23:58:20.831] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[23:58:20.831] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"Lv.88":位置(1235,411,102,43)
+
+[23:58:20.842] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: "Lv.88"
+
+[23:58:22.482] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:58:22.504] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:58:24.505] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 5: "地图追踪"
+
+[23:58:24.506] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第三个地图追踪步骤"
+
+[23:58:24.506] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/诗歌交流/坠星山谷/诗歌交流-坠星山谷-3.json"
+
+[23:58:24.866] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1476,4","2190,2")
+
+[23:58:30.184] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:58:30.261] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1473,3","2143,8")
+
+[23:58:30.729] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[23:58:40.381] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[23:58:40.381] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1473,3","2143,8")
+
+[23:58:41.527] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[23:58:42.533] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[23:58:44.536] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 6: "对话"
+
+[23:58:44.536] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，默认跳过10次对话"
+
+[23:58:44.536] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话步骤
+
+[23:58:44.536] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: 执行对话步骤，默认跳过10次对话
+
+[23:58:44.595] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[23:58:44.596] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"肉":位置(1148,604,46,60)
+
+[23:58:44.606] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: "肉"
+
+[23:58:46.267] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[23:58:46.288] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[23:58:48.302] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+统一对话委托流程执行完成: "诗歌交流"
+
+[23:58:48.302] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 3
+
+[23:58:48.302] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[23:58:48.303] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[23:58:49.506] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[23:58:50.411] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+对话委托 "诗歌交流" 执行完成
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "诗歌交流" 执行成功
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "丘丘人的一小步" 已完成，跳过
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托追踪全部执行完成，共执行 4/4 个委托
+
+[23:58:50.416] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+每日委托执行完成，前往安全地点
+
+[23:58:55.884] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "纳塔" "安饶之野" 七天神像
+
+[23:58:56.323] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1474,043, Y = 2140,9268 }"
+
+[23:58:56.323] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："纳塔"
+
+[23:58:57.204] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："纳塔"
+
+[23:58:58.121] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[23:59:05.741] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 6 次鼠标后，已经接近目标点，不再移动地图。
+
+[23:59:06.460] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[23:59:10.779] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[23:59:15.788] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+脚本执行完成，总耗时: 1101 秒
+
+[23:59:15.788] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+模块化主文件加载完成
+
+[23:59:15.799] [INF] BetterGenshinImpact.Service.ScriptService
+→ 脚本执行结束: "(对话+成就)全自动蒙德地区每日委托", 耗时: 18分21.523秒
+
+[23:59:15.799] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[23:59:17.823] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[23:59:17.834] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托" 执行结束
+
+[23:59:18.840] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+一条龙任务执行: 1/2
+
+[23:59:18.840] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[23:59:20.924] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："尘歌壶"
+
+[23:59:21.453] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"洞天名称：翠黛峰"
+
+[23:59:32.764] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"寻找阿圆"
+
+[23:59:45.380] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"寻找阿圆成功"
+
+[23:59:45.381] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"接近阿圆"
+
+[23:59:45.888] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"接近阿圆成功"
+
+[23:59:51.932] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："信任等阶"
+
+[23:59:52.234] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"领取好感和宝钱"
+
+[23:59:55.906] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"未配置购买商店物品"
+
+[23:59:55.907] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"退出到主页"
+
+[23:59:59.566] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："再见。"
+

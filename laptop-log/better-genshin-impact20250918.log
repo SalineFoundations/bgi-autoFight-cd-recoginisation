@@ -1,0 +1,3460 @@
+[21:40:25.019] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体实例化
+
+[21:40:25.534] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\renen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Program Files\gs\gs10.00.0\bin;C:\Users\renen\OneDrive - University\Uni-Saarland\WS22_23\Structural bioinfor\pdf2svg_win\dist-64bits\pdf2svg.exe;E:\Java\jdk_11.0.19\bin;C:\Program Files\Calibre2\;E:\Go Language\bin;E:\;E:\putty\;D:\MySQL\MySQL Shell 8.4\bin\;C:\Users\renen\.pyenv\pyenv-win\bin;C:\Users\renen\.pyenv\pyenv-win\shims;C:\Users\renen\AppData\Local\Microsoft\WindowsApps;D:\IntelliJ IDEA 2021.2.3\bin;E:\Microsoft VS Code\bin;C:\Users\renen\AppData\Local\GitHubDesktop\bin;D:\cpp\mingw64\bin;C:\Users\renen\AppData\Local\Coursier\data\bin;D:\miniConda\condabin;C:\Users\renen\go\bin"
+
+[21:40:25.535] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[GpuAuto]修改进程PATH为:"C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\renen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Program Files\gs\gs10.00.0\bin;C:\Users\renen\OneDrive - University\Uni-Saarland\WS22_23\Structural bioinfor\pdf2svg_win\dist-64bits\pdf2svg.exe;E:\Java\jdk_11.0.19\bin;C:\Program Files\Calibre2\;E:\Go Language\bin;E:\;E:\putty\;D:\MySQL\MySQL Shell 8.4\bin\;C:\Users\renen\.pyenv\pyenv-win\bin;C:\Users\renen\.pyenv\pyenv-win\shims;C:\Users\renen\AppData\Local\Microsoft\WindowsApps;D:\IntelliJ IDEA 2021.2.3\bin;E:\Microsoft VS Code\bin;C:\Users\renen\AppData\Local\GitHubDesktop\bin;D:\cpp\mingw64\bin;C:\Users\renen\AppData\Local\Coursier\data\bin;D:\miniConda\condabin;C:\Users\renen\go\bin;"
+
+[21:40:25.538] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]启用的provider:"Cpu",初始化参数: InferenceDevice=Cpu, OptimizedModel=False, CudaDeviceId=0, DmlDeviceId=0, EmbedTensorRtCache=True, EnableTensorRtCache=True, CpuOcr=True
+
+[21:40:25.545] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrDetV4"
+
+[21:40:25.818] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "PpOcrRecV4"
+
+[21:40:26.202] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+创建了类型为 "Paddle" 的 OCR服务
+
+[21:40:45.322] [DBG] BetterGenshinImpact.Core.Recognition.ONNX.BgiOnnxFactory
+[ONNX]创建推理会话，模型: "YapModelTraining"
+
+[21:40:46.248] [INF] BetterGenshinImpact.View.MaskWindow
+更好的原神 "0.50.0"
+
+[21:40:46.250] [INF] BetterGenshinImpact.View.MaskWindow
+遮罩窗口已启动，游戏大小1920x1080，素材缩放"1.00"，DPI缩放1.5
+
+[21:51:47.815] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[21:51:47.899] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前获取焦点的窗口不是原神，暂停
+
+[21:51:49.910] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+开始选择初始手牌
+
+[21:51:54.340] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+点击确认
+
+[21:51:54.341] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待3s对局准备...
+
+[21:51:57.364] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+识别到已经在角色出战界面，等待1.5s
+
+[21:51:59.286] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第1回合--------------
+
+[21:51:59.291] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："雷| 全| 风| 草| 水| 火| 冰| 岩| "
+
+[21:51:59.292] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[21:51:59.292] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 "骰子
+
+[21:52:05.827] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[21:52:09.194] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[21:52:10.416] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[21:52:11.501] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[21:52:16.510] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[21:52:17.593] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:52:18.650] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:52:19.710] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[21:52:20.870] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数4)...
+
+[21:52:22.074] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数5)...
+
+[21:52:23.269] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[5]
+
+[21:52:23.413] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=10，充能=0，"
+
+[21:52:23.435] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[21:52:24.042] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 2| 全 3| 风 2| 草 0| 水 0| 火 0| 冰 0| 岩 1| "
+
+[21:52:25.958] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能3
+
+[21:52:26.592] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【源流】"
+
+[21:52:26.593] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[21:52:36.803] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:52:37.955] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:52:39.141] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[5]
+
+[21:52:39.240] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=8，充能=0，"
+
+[21:52:39.252] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "5"
+
+[21:52:39.666] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 1| 全 3| 风 1| 草 0| 水 0| 火 0| 冰 0| 岩 0| "
+
+[21:52:41.572] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能2
+
+[21:52:42.202] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【神变·恶曜开眼】"
+
+[21:52:42.202] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[21:52:52.380] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:52:53.578] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:52:54.720] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[2],当前手牌数[5]
+
+[21:52:54.848] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=8，充能=4，"
+
+[21:52:54.868] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "2"
+
+[21:52:54.868] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+骰子不足以进行下一步："【雷神】使用【奥义·梦想真说】"
+
+[21:52:57.888] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+我方点击回合结束
+
+[21:53:02.905] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数0)...
+
+[21:53:04.204] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:53:05.442] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:53:06.905] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[21:53:08.169] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数4)...
+
+[21:53:09.452] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数5)...
+
+[21:53:10.717] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数6)...
+
+[21:53:11.987] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数7)...
+
+[21:53:13.277] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数8)...
+
+[21:53:14.687] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第2回合--------------
+
+[21:53:14.687] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："草| 雷| 全| 风| 水| 火| 冰| 岩| "
+
+[21:53:14.687] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[21:53:14.688] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 草 "骰子
+
+[21:53:22.456] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[21:53:23.482] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[21:53:24.553] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[21:53:29.571] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[21:53:30.769] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:53:31.928] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:53:33.092] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[7]
+
+[21:53:33.220] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=6，充能=4，"
+
+[21:53:33.241] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[21:53:33.799] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："草 1| 雷 1| 全 2| 风 1| 水 1| 火 1| 冰 0| 岩 1| "
+
+[21:53:35.713] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[21:53:36.371] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【奥义·梦想真说】"
+
+[21:53:36.371] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[21:53:51.521] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:53:52.697] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:53:53.853] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[7]
+
+[21:53:53.979] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，充能=0，"
+
+[21:53:54.066] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "5"
+
+[21:53:55.835] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】切换至【角色2】"
+
+[21:53:55.835] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[21:54:05.988] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:54:07.166] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:54:08.315] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[4],当前手牌数[7]
+
+[21:54:08.423] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色2，HP=10，充能=4，"
+
+[21:54:08.434] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "4"
+
+[21:54:08.844] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："草 1| 雷 0| 全 0| 风 1| 水 0| 火 1| 冰 0| 岩 1| "
+
+[21:54:08.844] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足3个，还缺2个，当前手牌数7，烧牌
+
+[21:54:08.844] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[21:54:13.606] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第2张牌
+
+[21:54:16.723] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+烧牌失败，重试
+
+[21:54:17.820] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第2张牌
+
+[21:54:24.574] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[21:54:25.209] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【柯莱】使用【猫猫秘宝】"
+
+[21:54:25.209] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[21:54:40.337] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:54:41.485] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:54:42.647] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[1],当前手牌数[5]
+
+[21:54:42.759] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR HP的方式未识别到出战角色 [0, 0, 1]
+
+[21:54:42.849] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色2，充能=0，"
+
+[21:54:42.894] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "1"
+
+[21:54:44.659] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【柯莱】切换至【角色3】"
+
+[21:54:44.659] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[21:54:54.834] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:54:56.023] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:54:57.163] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[0],当前手牌数[5]
+
+[21:54:57.163] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+骰子已经用完
+
+[21:55:00.170] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+我方点击回合结束
+
+[21:55:05.181] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数0)...
+
+[21:55:06.431] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数1)...
+
+[21:55:07.656] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数2)...
+
+[21:55:08.950] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数3)...
+
+[21:55:10.410] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数4)...
+
+[21:55:11.701] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第3回合--------------
+
+[21:55:11.702] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："雷| 全| 草| 风| 水| 火| 冰| 岩| "
+
+[21:55:11.702] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[21:55:11.702] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 "骰子
+
+[21:55:19.081] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了7个骰子,等待重试
+
+[21:55:22.175] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了7个骰子,等待重试
+
+[21:55:25.471] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[21:55:26.836] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[21:55:27.924] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[21:55:32.931] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[21:55:33.982] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:55:35.028] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:55:36.082] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[21:55:37.268] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数4)...
+
+[21:55:38.455] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数5)...
+
+[21:55:39.620] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[7]
+
+[21:55:39.756] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR HP的方式未识别到出战角色 [0, 0, 0]
+
+[21:55:39.775] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色3，充能=5，"
+
+[21:55:39.799] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[21:55:40.346] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 0| 全 3| 草 1| 风 0| 水 1| 火 1| 冰 0| 岩 2| "
+
+[21:55:42.291] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能2
+
+[21:55:42.934] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【刻晴】使用【星斗归位】"
+
+[21:55:42.934] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[21:55:53.106] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:55:54.289] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:55:55.426] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[8]
+
+[21:55:55.532] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR HP的方式未识别到出战角色 [0, 0, 0]
+
+[21:55:55.556] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色3，充能=5，"
+
+[21:55:55.616] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[21:55:55.616] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+可能存在场地牌影响了骰子数[5] -> [8]
+
+[21:55:56.192] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 0| 全 3| 草 1| 风 0| 水 1| 火 1| 冰 0| 岩 2| "
+
+[21:55:56.192] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足4个，还缺1个，当前手牌数8，烧牌
+
+[21:55:56.192] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[21:56:02.837] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[21:56:03.480] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【刻晴】使用【天街巡游】"
+
+[21:56:03.481] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[21:56:18.540] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[21:56:19.603] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[21:56:20.677] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[21:56:21.727] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数4)...
+
+[21:56:22.796] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数5)...
+
+[21:56:23.850] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数6)...
+
+[21:56:24.919] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数7)...
+
+[21:56:25.983] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数8)...
+
+[21:56:27.042] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数9)...
+
+[21:56:28.111] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数10)...
+
+[21:56:29.175] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数11)...
+
+[21:56:30.243] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数12)...
+
+[21:56:31.347] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数13)...
+
+[21:56:32.424] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数14)...
+
+[21:56:33.535] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数15)...
+
+[21:56:34.582] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数16)...
+
+[21:56:35.631] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数17)...
+
+[21:56:36.721] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数18)...
+
+[21:56:37.781] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数19)...
+
+[21:56:38.911] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数20)...
+
+[21:56:39.977] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数21)...
+
+[21:56:41.071] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数22)...
+
+[21:56:42.144] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数23)...
+
+[21:56:43.268] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数24)...
+
+[21:56:44.329] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数25)...
+
+[21:56:45.396] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数26)...
+
+[21:56:46.459] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数27)...
+
+[21:56:47.568] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数28)...
+
+[21:56:48.683] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数29)...
+
+[21:56:49.756] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数30)...
+
+[21:56:50.805] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数31)...
+
+[21:56:51.847] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数32)...
+
+[21:56:52.904] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数33)...
+
+[21:56:53.957] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数34)...
+
+[21:56:55.037] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数35)...
+
+[21:56:56.097] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数36)...
+
+[21:56:57.157] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数37)...
+
+[21:56:58.267] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数38)...
+
+[21:56:59.351] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数39)...
+
+[21:57:00.409] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数40)...
+
+[21:57:01.481] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数41)...
+
+[21:57:02.542] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数42)...
+
+[21:57:03.603] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数43)...
+
+[21:57:04.663] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数44)...
+
+[21:57:05.731] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数45)...
+
+[21:57:06.793] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数46)...
+
+[21:57:07.869] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数47)...
+
+[21:57:08.956] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数48)...
+
+[21:57:10.062] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数49)...
+
+[21:57:11.140] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数50)...
+
+[21:57:12.205] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数51)...
+
+[21:57:13.266] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数52)...
+
+[21:57:14.312] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数53)...
+
+[21:57:15.367] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数54)...
+
+[21:57:16.479] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数55)...
+
+[21:57:17.561] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数56)...
+
+[21:57:18.625] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数57)...
+
+[21:57:19.725] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数58)...
+
+[21:57:20.820] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数59)...
+
+[21:57:21.928] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+执行自动七圣召唤任务异常
+System.Exception: 等待对方行动超时,停止自动打牌！
+   at BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl.WaitForMyTurn(Duel duel, Int32 waitTime) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoGeniusInvokation\GeniusInvokationControl.cs:line 909
+   at BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel.Run(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoGeniusInvokation\Model\Duel.cs:line 258
+   at BetterGenshinImpact.GameTask.AutoGeniusInvokation.AutoGeniusInvokationTask.Start(CancellationToken ct) in D:\a\better-genshin-impact\better-genshin-impact\BetterGenshinImpact\GameTask\AutoGeniusInvokation\AutoGeniusInvokationTask.cs:line 17
+
+[21:57:21.973] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+执行自动七圣召唤任务异常："等待对方行动超时,停止自动打牌！"
+
+[21:57:21.988] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:01:56.873] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[22:01:56.888] [WRN] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前获取焦点的窗口不是原神，暂停
+
+[22:01:58.901] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+开始选择初始手牌
+
+[22:02:01.155] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+点击确认
+
+[22:02:01.155] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待3s对局准备...
+
+[22:02:04.188] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+识别到已经在角色出战界面，等待1.5s
+
+[22:02:06.009] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第1回合--------------
+
+[22:02:06.009] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："雷| 全| 草| 风| 水| 火| 冰| 岩| "
+
+[22:02:06.009] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[22:02:06.009] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 "骰子
+
+[22:02:12.289] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[22:02:15.396] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[22:02:16.434] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[22:02:17.568] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[22:02:22.573] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[22:02:23.615] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:02:24.713] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:02:25.805] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[22:02:26.948] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数4)...
+
+[22:02:28.164] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数5)...
+
+[22:02:29.319] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[5]
+
+[22:02:29.440] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=10，充能=0，"
+
+[22:02:29.462] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[22:02:30.049] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 4| 全 1| 草 0| 风 0| 水 2| 火 0| 冰 1| 岩 0| "
+
+[22:02:31.941] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能3
+
+[22:02:32.586] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【源流】"
+
+[22:02:32.586] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[22:02:42.706] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:02:43.858] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:02:45.034] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[5]
+
+[22:02:45.175] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=6，充能=0，"
+
+[22:02:45.224] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "5"
+
+[22:02:45.646] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 3| 全 1| 草 0| 风 0| 水 1| 火 0| 冰 0| 岩 0| "
+
+[22:02:47.585] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能2
+
+[22:02:48.229] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【神变·恶曜开眼】"
+
+[22:02:48.229] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[22:02:58.379] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:02:59.535] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:03:00.701] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[2],当前手牌数[5]
+
+[22:03:00.815] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=6，充能=4，"
+
+[22:03:00.864] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "2"
+
+[22:03:00.864] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+骰子不足以进行下一步："【雷神】使用【奥义·梦想真说】"
+
+[22:03:03.881] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+我方点击回合结束
+
+[22:03:08.941] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数0)...
+
+[22:03:10.079] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:03:11.257] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:03:12.714] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[22:03:13.985] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数4)...
+
+[22:03:15.112] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数5)...
+
+[22:03:16.299] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数6)...
+
+[22:03:17.498] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数7)...
+
+[22:03:18.809] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数8)...
+
+[22:03:20.308] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数9)...
+
+[22:03:21.621] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数10)...
+
+[22:03:22.876] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数11)...
+
+[22:03:24.143] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第2回合--------------
+
+[22:03:24.144] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："草| 雷| 全| 风| 水| 火| 冰| 岩| "
+
+[22:03:24.144] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[22:03:24.144] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 草 "骰子
+
+[22:03:31.694] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了7个骰子,等待重试
+
+[22:03:34.892] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[22:03:36.090] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[22:03:37.156] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[22:03:42.166] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[22:03:43.444] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:03:44.658] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:03:45.858] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[7]
+
+[22:03:45.953] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色1，HP=2，充能=4，"
+
+[22:03:45.970] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[22:03:46.537] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："草 1| 雷 1| 全 1| 风 0| 水 2| 火 2| 冰 0| 岩 1| "
+
+[22:03:46.537] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足3个，还缺1个，当前手牌数7，烧牌
+
+[22:03:46.537] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[22:03:53.177] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[22:03:53.841] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【雷神】使用【奥义·梦想真说】"
+
+[22:03:53.841] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[22:04:08.972] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战角色被打败，需要选择新的出战角色
+
+[22:04:09.070] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Character
+有角色被打败,当前选择"柯莱"出战
+
+[22:04:12.078] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:04:13.226] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:04:14.374] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[22:04:15.603] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[6]
+
+[22:04:15.755] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色2，HP=10，充能=5，"
+
+[22:04:15.781] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "5"
+
+[22:04:16.260] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："草 1| 雷 0| 全 0| 风 0| 水 2| 火 2| 冰 0| 岩 0| "
+
+[22:04:16.261] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足3个，还缺2个，当前手牌数6，烧牌
+
+[22:04:16.261] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[22:04:21.024] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第2张牌
+
+[22:04:27.608] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[22:04:28.245] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【柯莱】使用【猫猫秘宝】"
+
+[22:04:28.245] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[22:04:43.449] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:04:44.584] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:04:45.742] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[2],当前手牌数[4]
+
+[22:04:45.846] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色2，HP=8，充能=1，"
+
+[22:04:45.863] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "2"
+
+[22:04:47.627] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【柯莱】切换至【角色3】"
+
+[22:04:47.627] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[22:04:57.778] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:04:58.938] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:05:00.079] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[1],当前手牌数[4]
+
+[22:05:00.236] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色3，HP=10，充能=4，"
+
+[22:05:00.264] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "1"
+
+[22:05:00.264] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+骰子不足以进行下一步："【刻晴】使用【星斗归位】"
+
+[22:05:03.285] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+我方点击回合结束
+
+[22:05:08.100] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数0)...
+
+[22:05:09.342] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:05:10.568] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:05:11.805] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数3)...
+
+[22:05:13.349] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数4)...
+
+[22:05:14.878] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数5)...
+
+[22:05:16.180] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数6)...
+
+[22:05:17.615] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+正在回合结束阶段,继续等待(次数7)...
+
+[22:05:19.197] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+--------------第3回合--------------
+
+[22:05:19.197] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子排序："雷| 全| 草| 风| 水| 火| 冰| 岩| "
+
+[22:05:19.197] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s投骰动画...
+
+[22:05:19.197] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+保留" 全 雷 "骰子
+
+[22:05:25.378] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[22:05:27.115] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[22:05:28.930] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[22:05:30.852] [DBG] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了0个骰子,等待重试
+
+[22:05:34.077] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+投骰子界面识别到了8个骰子
+
+[22:05:35.458] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+选择需要重投的骰子后点击确认完毕
+
+[22:05:36.538] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待5s对方重投
+
+[22:05:41.544] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动1s
+
+[22:05:42.699] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:05:43.853] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:05:44.980] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[8],当前手牌数[6]
+
+[22:05:45.134] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色3，充能=5，"
+
+[22:05:45.197] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "8"
+
+[22:05:45.703] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 2| 全 0| 草 1| 风 0| 水 2| 火 1| 冰 1| 岩 1| "
+
+[22:05:45.704] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足3个，还缺1个，当前手牌数6，烧牌
+
+[22:05:45.704] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[22:05:52.342] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能2
+
+[22:05:52.981] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【刻晴】使用【星斗归位】"
+
+[22:05:52.982] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动10s
+
+[22:06:03.143] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数1)...
+
+[22:06:04.292] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+对方仍在行动中,继续等待(次数2)...
+
+[22:06:05.513] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+行动开始,当前骰子数[5],当前手牌数[6]
+
+[22:06:05.716] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前出战"角色3，HP=4，充能=10，"
+
+[22:06:05.770] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+通过OCR识别当前骰子数量: "5"
+
+[22:06:06.223] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前骰子状态："雷 0| 全 0| 草 1| 风 0| 水 2| 火 1| 冰 0| 岩 1| "
+
+[22:06:06.223] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+当前需要的元素骰子数量不足4个，还缺4个，当前手牌数6，烧牌
+
+[22:06:06.223] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第1张牌
+
+[22:06:10.948] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第2张牌
+
+[22:06:15.680] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第3张牌
+
+[22:06:20.420] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+- 烧第4张牌
+
+[22:06:27.066] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+使用技能1
+
+[22:06:27.719] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+→指令执行完成："【刻晴】使用【天街巡游】"
+
+[22:06:27.719] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.GeniusInvokationControl
+等待对方行动15s
+
+[22:06:42.762] [INF] BetterGenshinImpact.GameTask.AutoGeniusInvokation.Model.Duel
+对局结束
+
+[22:06:42.771] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:07:32.243] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙配置：蒙德委托-elip
+
+[22:07:32.245] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用任务总数量: 3
+
+[22:07:32.370] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用一条龙任务的数量: 2
+
+[22:07:32.397] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+启用配置组任务的数量: 1
+
+[22:07:32.397] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+一条龙任务执行: 1/2
+
+[22:07:32.398] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[22:07:35.695] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："尘歌壶"
+
+[22:07:36.221] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"洞天名称：妙香林"
+
+[22:07:48.635] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"在妙香林，调整位置"
+
+[22:07:48.841] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"寻找阿圆"
+
+[22:08:00.299] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"寻找阿圆成功"
+
+[22:08:00.299] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"接近阿圆"
+
+[22:08:00.939] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"接近阿圆成功"
+
+[22:08:07.630] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："信任等阶"
+
+[22:08:07.940] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"领取好感和宝钱"
+
+[22:08:11.681] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"未配置购买商店物品"
+
+[22:08:11.682] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+领取尘歌壶奖励:"退出到主页"
+
+[22:08:15.230] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："再见！"
+
+[22:08:20.220] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+[TemplateMatch]提瓦特大陆地图模板加载中，可能耗时较久，请耐心等待...
+
+[22:08:26.260] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+地图特征点加载完成！
+
+[22:08:26.704] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 17350.422, Y = 2695.2515 }"
+
+[22:08:26.704] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："枫丹"
+
+[22:08:27.627] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："枫丹"
+
+[22:08:28.527] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:08:29.133] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送：点击 "传送锚点"
+
+[22:08:46.452] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:08:47.497] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:08:47.499] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+配置组任务执行: 1/1
+
+[22:08:48.054] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托-elio" 加载完成，共1个脚本，开始执行
+
+[22:08:48.055] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[22:08:48.064] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[22:08:48.067] [INF] BetterGenshinImpact.Service.ScriptService
+→ 开始执行JS脚本: "(对话+成就)全自动蒙德地区每日委托"
+
+[22:08:48.667] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+setting:["[skipRecognition, False]", "[prepare, False]", "[team, 钟芙万白]", "[skipCommissions, ]"]
+
+[22:08:48.673] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+版本: "0.98.3"
+
+[22:08:48.675] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[22:08:48.677] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行原神每日委托识别脚本
+
+[22:08:48.816] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始读取支持的委托列表: "name.json"
+
+[22:08:48.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的战斗委托列表，共 13 个
+
+[22:08:48.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的对话委托列表，共 25 个
+
+[22:08:48.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的战斗委托: 13 个
+
+[22:08:48.824] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+支持的对话委托: 25 个
+
+[22:08:48.832] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:08:48.838] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:08:50.030] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:08:51.045] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托识别
+
+[22:08:51.045] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤1: 使用识别前3个委托
+
+[22:08:51.046] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第1个委托区域 (796, 293) (1236, 333)
+
+[22:08:51.083] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个区域OCR识别结果数量: 1
+
+[22:08:51.087] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""圆滚滚的易爆品""
+
+[22:08:51.087] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第2个委托区域 (796, 401) (1236, 441)
+
+[22:08:51.122] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个区域OCR识别结果数量: 1
+
+[22:08:51.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第2个委托: ""临危受命""
+
+[22:08:51.134] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第3个委托区域 (796, 509) (1236, 549)
+
+[22:08:51.160] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个区域OCR识别结果数量: 1
+
+[22:08:51.161] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第3个委托: ""固若金汤""
+
+[22:08:51.161] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤2: 检测所有委托的完成状态
+
+[22:08:51.178] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[22:08:51.212] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托1 "圆滚滚的易爆品" 未完成，查看详情
+
+[22:08:51.212] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第1个委托详情: "圆滚滚的易爆品"
+
+[22:08:51.212] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 320)
+
+[22:08:53.082] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[22:08:53.082] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: 蒙德
+
+[22:08:53.083] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[22:08:53.109] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 的地点: "奔狼领"
+
+[22:08:53.109] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[22:08:55.376] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-448.1582, 2054.4631)
+
+[22:08:56.894] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托2的完成状态（图像识别）
+
+[22:08:56.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托2 "临危受命" 未完成，查看详情
+
+[22:08:56.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第2个委托详情: "临危受命"
+
+[22:08:56.901] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 440)
+
+[22:08:58.246] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[22:08:58.246] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: 蒙德
+
+[22:08:58.246] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[22:08:58.273] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 的地点: "奔狼领"
+
+[22:08:58.273] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[22:09:00.523] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-324.69922, 2187.7764)
+
+[22:09:02.051] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[22:09:02.060] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托3 "固若金汤" 未完成，查看详情
+
+[22:09:02.061] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第3个委托详情: "固若金汤"
+
+[22:09:02.061] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 530)
+
+[22:09:03.430] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[22:09:03.430] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: 蒙德
+
+[22:09:03.430] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[22:09:03.464] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "固若金汤" 的地点: "龙脊雪山"
+
+[22:09:03.465] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[22:09:05.738] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-664.6074, 938.85596)
+
+[22:09:07.258] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤3: 翻页后识别第4个委托
+
+[22:09:07.259] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[22:09:08.098] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别第4个委托区域 (796, 544) (1236, 584)
+
+[22:09:08.124] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个区域OCR识别结果数量: 1
+
+[22:09:08.135] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第4个委托: ""鸽子鸭子小孩子""
+
+[22:09:08.136] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[22:09:08.163] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托4 "鸽子鸭子小孩子" 未完成，查看详情
+
+[22:09:08.163] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+查看第4个委托详情: "鸽子鸭子小孩子"
+
+[22:09:08.163] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮 (1550, 560)
+
+[22:09:09.480] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到蒙德委托，成功进入详情界面
+
+[22:09:09.480] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托国家: 蒙德
+
+[22:09:09.480] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别委托地点 (1530, 100) (1780, 130)...
+
+[22:09:09.502] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "鸽子鸭子小孩子" 的地点: "坠星山谷"
+
+[22:09:09.503] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[22:09:11.731] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1016.8828, 2185.1233)
+
+[22:09:13.243] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+完整委托列表:
+
+[22:09:13.244] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. "圆滚滚的易爆品" "(奔狼领)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[22:09:13.244] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. "临危受命" "(奔狼领)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[22:09:13.244] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+3. "固若金汤" "(龙脊雪山)" "{蒙德}" "[fight]" - "✅ 支持"
+
+[22:09:13.244] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+4. "鸽子鸭子小孩子" "(坠星山谷)" "{蒙德}" "[talk]" - "✅ 支持"
+
+[22:09:13.244] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别成功，开始保存数据
+
+[22:09:13.245] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+保存委托数据到文件...
+
+[22:09:13.264] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托数据已保存到: "Data/commissions_data.json"
+
+[22:09:13.296] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托报告已保存到: "Data/commissions_report.txt"
+
+[22:09:13.296] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托识别完成，共识别到 4 个委托，其中 4 个受支持
+
+[22:09:13.296] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托前准备
+
+[22:09:15.905] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "须弥" "道成林" 七天神像
+
+[22:09:16.354] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 4508.927, Y = 3630.8398 }"
+
+[22:09:16.354] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："须弥"
+
+[22:09:17.287] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："须弥"
+
+[22:09:18.203] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:09:26.336] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:09:31.348] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+切换至队伍 钟芙万白
+
+[22:09:31.355] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+尝试切换至队伍: "钟芙万白"
+
+[22:09:35.116] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换队伍，当前队伍名称: "白万芙特"，使用正则表达式规则进行模糊匹配
+
+[22:09:38.076] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换队伍成功: "钟芙万白高压"
+
+[22:09:41.177] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托追踪 - 按距离排序模式
+
+[22:09:42.280] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已加载支持的委托数据，共 4 个
+
+[22:09:42.281] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "圆滚滚的易爆品" ("奔狼领") ["fight"]
+
+[22:09:42.281] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-448.1582, 2054.4631)
+
+[22:09:42.295] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/圆滚滚的易爆品/奔狼领-1.json" 获取到目标坐标: (-451.66, 2046.28)
+
+[22:09:42.298] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/圆滚滚的易爆品/奔狼领-1.json" 目标位置: (-451.66, 2046.28)，距离: 8.900914332030217
+
+[22:09:42.312] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/奔狼领-2.json"
+
+[22:09:42.313] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/圆滚滚的易爆品/奔狼领-3.json"
+
+[22:09:42.314] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[22:09:42.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/圆滚滚的易爆品/奔狼领-1.json", 距离: 8.900914332030217
+
+[22:09:42.316] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行路径追踪脚本: "assets/圆滚滚的易爆品/奔狼领-1.json"
+
+[22:09:42.963] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:09:44.989] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 2297.6494, Y = -824.2407 }"
+
+[22:09:44.989] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[22:09:46.015] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[22:09:46.925] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:09:52.538] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:09:53.388] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-569.1","1846.0")
+
+[22:09:53.764] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:09:55.493] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:09:56.575] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:09:56.895] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-538.9","1876.2")
+
+[22:10:03.132] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:03.368] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-570.0","1913.9")
+
+[22:10:07.805] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:10:09.532] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:10:12.115] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:12.334] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-568.9","1939.8")
+
+[22:10:16.314] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:16.477] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-548.1","1977.0")
+
+[22:10:21.753] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:10:23.445] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:10:25.203] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:25.428] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-540.1","1988.0")
+
+[22:10:28.358] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:28.361] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[22:10:28.382] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[22:10:28.602] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-510.1","2013.1")
+
+[22:10:35.679] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:35.750] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击
+
+[22:10:36.840] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+动作：下落攻击 结束
+
+[22:10:37.105] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-486.8","2023.9")
+
+[22:10:41.058] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:41.354] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-473.9","2034.3")
+
+[22:10:43.687] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:44.070] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-454.8","2046.4")
+
+[22:10:45.009] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:10:46.773] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:10:49.286] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:49.596] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-445.8","2050.8")
+
+[22:10:51.085] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:10:51.090] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[22:10:51.108] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共14条指令，涉及角色："钟离,芙宁娜,枫原万叶,白术"
+
+[22:10:51.277] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:10:51.279] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟芙万白【高压环境挂机】"
+
+[22:10:53.105] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:10:55.994] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:2.7 秒
+
+[22:11:00.366] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 点按元素战技，cd:5.3 秒
+
+[22:11:00.764] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:11:02.448] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:11:05.247] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.5 秒
+
+[22:11:06.786] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:11:14.463] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:11:14.961] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow133,66,35
+
+[22:11:14.961] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white130,66,39
+
+[22:11:16.429] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 点按元素战技，cd:5.3 秒
+
+[22:11:16.710] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5 秒
+
+[22:11:19.649] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:11:24.320] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:11:26.048] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:11:28.733] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.8 秒
+
+[22:11:30.486] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.8 秒
+
+[22:11:38.216] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:11:38.742] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow95,54,17
+
+[22:11:38.742] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white62,31,15
+
+[22:11:40.284] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:11:43.218] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:11:48.191] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:11:50.024] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.8 秒
+
+[22:11:52.520] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.9 秒
+
+[22:11:54.301] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:12:01.130] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:12:01.650] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow86,70,39
+
+[22:12:01.650] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white137,116,63
+
+[22:12:03.163] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:12:05.968] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:12:10.595] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:12:12.387] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:12:15.070] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.8 秒
+
+[22:12:16.715] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:12:24.588] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:12:25.070] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到战斗结束
+
+[22:12:25.071] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+使用枫原万叶长E拾取掉落物
+
+[22:12:26.302] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"枫原万叶"
+
+[22:12:27.600] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:7.5 秒
+
+[22:12:32.170] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 775, Y = 295, Width = 54, Height = 354, Top = 295, Bottom = 649, Left = 775, Right = 829, Location = Point { X = 775, Y = 295 }, Size = Size { Width = 54, Height = 354 }, TopLeft = Point { X = 775, Y = 295 }, BottomRight = Point { X = 829, Y = 649 } }"
+
+[22:12:32.170] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 775 649
+
+[22:12:32.910] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 768, Y = 543, Width = 33, Height = 159, Top = 543, Bottom = 702, Left = 768, Right = 801, Location = Point { X = 768, Y = 543 }, Size = Size { Width = 33, Height = 159 }, TopLeft = Point { X = 768, Y = 543 }, BottomRight = Point { X = 801, Y = 702 } }"
+
+[22:12:32.910] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 768 702
+
+[22:12:33.641] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 813, Y = 600, Width = 61, Height = 302, Top = 600, Bottom = 902, Left = 813, Right = 874, Location = Point { X = 813, Y = 600 }, Size = Size { Width = 61, Height = 302 }, TopLeft = Point { X = 813, Y = 600 }, BottomRight = Point { X = 874, Y = 902 } }"
+
+[22:12:33.641] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 813 902
+
+[22:12:34.388] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 405, Y = 448, Width = 39, Height = 151, Top = 448, Bottom = 599, Left = 405, Right = 444, Location = Point { X = 405, Y = 448 }, Size = Size { Width = 39, Height = 151 }, TopLeft = Point { X = 405, Y = 448 }, BottomRight = Point { X = 444, Y = 599 } }"
+
+[22:12:34.389] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 405 599
+
+[22:12:35.243] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 843, Y = 680, Width = 74, Height = 396, Top = 680, Bottom = 1076, Left = 843, Right = 917, Location = Point { X = 843, Y = 680 }, Size = Size { Width = 74, Height = 396 }, TopLeft = Point { X = 843, Y = 680 }, BottomRight = Point { X = 917, Y = 1076 } }"
+
+[22:12:35.243] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 843 1076
+
+[22:12:35.999] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 842, Y = 456, Width = 18, Height = 102, Top = 456, Bottom = 558, Left = 842, Right = 860, Location = Point { X = 842, Y = 456 }, Size = Size { Width = 18, Height = 102 }, TopLeft = Point { X = 842, Y = 456 }, BottomRight = Point { X = 860, Y = 558 } }"
+
+[22:12:35.999] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 842 558
+
+[22:12:36.770] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:12:38.243] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 786, Y = 426, Width = 43, Height = 177, Top = 426, Bottom = 603, Left = 786, Right = 829, Location = Point { X = 786, Y = 426 }, Size = Size { Width = 43, Height = 177 }, TopLeft = Point { X = 786, Y = 426 }, BottomRight = Point { X = 829, Y = 603 } }"
+
+[22:12:38.243] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 786 603
+
+[22:12:39.018] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 789, Y = 407, Width = 35, Height = 195, Top = 407, Bottom = 602, Left = 789, Right = 824, Location = Point { X = 789, Y = 407 }, Size = Size { Width = 35, Height = 195 }, TopLeft = Point { X = 789, Y = 407 }, BottomRight = Point { X = 824, Y = 602 } }"
+
+[22:12:39.018] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 789 602
+
+[22:12:39.800] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 677, Y = 621, Width = 65, Height = 233, Top = 621, Bottom = 854, Left = 677, Right = 742, Location = Point { X = 677, Y = 621 }, Size = Size { Width = 65, Height = 233 }, TopLeft = Point { X = 677, Y = 621 }, BottomRight = Point { X = 742, Y = 854 } }"
+
+[22:12:39.800] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 677 854
+
+[22:12:40.506] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[22:12:41.990] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 646, Y = 617, Width = 53, Height = 244, Top = 617, Bottom = 861, Left = 646, Right = 699, Location = Point { X = 646, Y = 617 }, Size = Size { Width = 53, Height = 244 }, TopLeft = Point { X = 646, Y = 617 }, BottomRight = Point { X = 699, Y = 861 } }"
+
+[22:12:41.990] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 646 861
+
+[22:12:42.754] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 649, Y = 642, Width = 48, Height = 215, Top = 642, Bottom = 857, Left = 649, Right = 697, Location = Point { X = 649, Y = 642 }, Size = Size { Width = 48, Height = 215 }, TopLeft = Point { X = 649, Y = 642 }, BottomRight = Point { X = 697, Y = 857 } }"
+
+[22:12:42.754] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 649 857
+
+[22:12:43.518] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[22:12:46.737] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1623, Y = 498, Width = 43, Height = 151, Top = 498, Bottom = 649, Left = 1623, Right = 1666, Location = Point { X = 1623, Y = 498 }, Size = Size { Width = 43, Height = 151 }, TopLeft = Point { X = 1623, Y = 498 }, BottomRight = Point { X = 1666, Y = 649 } }"
+
+[22:12:46.737] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1623 649
+
+[22:12:47.526] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1614, Y = 480, Width = 35, Height = 169, Top = 480, Bottom = 649, Left = 1614, Right = 1649, Location = Point { X = 1614, Y = 480 }, Size = Size { Width = 35, Height = 169 }, TopLeft = Point { X = 1614, Y = 480 }, BottomRight = Point { X = 1649, Y = 649 } }"
+
+[22:12:47.526] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1614 649
+
+[22:12:48.276] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1412, Y = 475, Width = 60, Height = 222, Top = 475, Bottom = 697, Left = 1412, Right = 1472, Location = Point { X = 1412, Y = 475 }, Size = Size { Width = 60, Height = 222 }, TopLeft = Point { X = 1412, Y = 475 }, BottomRight = Point { X = 1472, Y = 697 } }"
+
+[22:12:48.276] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1412 697
+
+[22:12:49.071] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_D的按下状态.
+
+[22:12:49.071] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:12:51.449] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1585, Y = 269, Width = 17, Height = 73, Top = 269, Bottom = 342, Left = 1585, Right = 1602, Location = Point { X = 1585, Y = 269 }, Size = Size { Width = 17, Height = 73 }, TopLeft = Point { X = 1585, Y = 269 }, BottomRight = Point { X = 1602, Y = 342 } }"
+
+[22:12:51.449] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1585 342
+
+[22:12:52.133] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1582, Y = 273, Width = 16, Height = 67, Top = 273, Bottom = 340, Left = 1582, Right = 1598, Location = Point { X = 1582, Y = 273 }, Size = Size { Width = 16, Height = 67 }, TopLeft = Point { X = 1582, Y = 273 }, BottomRight = Point { X = 1598, Y = 340 } }"
+
+[22:12:52.133] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1582 340
+
+[22:12:52.807] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1665, Y = 315, Width = 20, Height = 71, Top = 315, Bottom = 386, Left = 1665, Right = 1685, Location = Point { X = 1665, Y = 315 }, Size = Size { Width = 20, Height = 71 }, TopLeft = Point { X = 1665, Y = 315 }, BottomRight = Point { X = 1685, Y = 386 } }"
+
+[22:12:52.807] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1665 386
+
+[22:12:53.574] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:12:55.096] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1355, Y = 317, Width = 15, Height = 68, Top = 317, Bottom = 385, Left = 1355, Right = 1370, Location = Point { X = 1355, Y = 317 }, Size = Size { Width = 15, Height = 68 }, TopLeft = Point { X = 1355, Y = 317 }, BottomRight = Point { X = 1370, Y = 385 } }"
+
+[22:12:55.096] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1355 385
+
+[22:12:55.754] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1351, Y = 315, Width = 16, Height = 70, Top = 315, Bottom = 385, Left = 1351, Right = 1367, Location = Point { X = 1351, Y = 315 }, Size = Size { Width = 16, Height = 70 }, TopLeft = Point { X = 1351, Y = 315 }, BottomRight = Point { X = 1367, Y = 385 } }"
+
+[22:12:55.754] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1351 385
+
+[22:12:56.478] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1286, Y = 324, Width = 18, Height = 71, Top = 324, Bottom = 395, Left = 1286, Right = 1304, Location = Point { X = 1286, Y = 324 }, Size = Size { Width = 18, Height = 71 }, TopLeft = Point { X = 1286, Y = 324 }, BottomRight = Point { X = 1304, Y = 395 } }"
+
+[22:12:56.478] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1286 395
+
+[22:12:57.233] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1885, Y = 379, Width = 31, Height = 101, Top = 379, Bottom = 480, Left = 1885, Right = 1916, Location = Point { X = 1885, Y = 379 }, Size = Size { Width = 31, Height = 101 }, TopLeft = Point { X = 1885, Y = 379 }, BottomRight = Point { X = 1916, Y = 480 } }"
+
+[22:12:57.233] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1885 480
+
+[22:12:57.986] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1908, Y = 486, Width = 12, Height = 114, Top = 486, Bottom = 600, Left = 1908, Right = 1920, Location = Point { X = 1908, Y = 486 }, Size = Size { Width = 12, Height = 114 }, TopLeft = Point { X = 1908, Y = 486 }, BottomRight = Point { X = 1920, Y = 600 } }"
+
+[22:12:57.986] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1908 600
+
+[22:12:58.759] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1194, Y = 484, Width = 18, Height = 78, Top = 484, Bottom = 562, Left = 1194, Right = 1212, Location = Point { X = 1194, Y = 484 }, Size = Size { Width = 18, Height = 78 }, TopLeft = Point { X = 1194, Y = 484 }, BottomRight = Point { X = 1212, Y = 562 } }"
+
+[22:12:58.759] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1194 562
+
+[22:12:59.546] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1638, Y = 601, Width = 29, Height = 169, Top = 601, Bottom = 770, Left = 1638, Right = 1667, Location = Point { X = 1638, Y = 601 }, Size = Size { Width = 29, Height = 169 }, TopLeft = Point { X = 1638, Y = 601 }, BottomRight = Point { X = 1667, Y = 770 } }"
+
+[22:12:59.546] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1638 770
+
+[22:12:59.763] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+超时或视野内没有可拾取物品，结束扫描
+
+[22:12:59.764] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_D的按下状态.
+
+[22:13:01.038] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-446.7","2047.6")
+
+[22:13:01.859] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:13:02.571] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"钟离"
+
+[22:13:04.302] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:13:05.694] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:13:05.695] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[22:13:05.696] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共14条指令，涉及角色："钟离,芙宁娜,枫原万叶,白术"
+
+[22:13:05.830] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:13:05.830] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟芙万白【高压环境挂机】"
+
+[22:13:07.303] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.2 秒
+
+[22:13:10.082] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:5.9 秒
+
+[22:13:14.681] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:13:16.257] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.8 秒
+
+[22:13:18.942] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.9 秒
+
+[22:13:20.482] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:13:28.032] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:13:28.508] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到战斗结束
+
+[22:13:28.509] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+使用枫原万叶长E拾取掉落物
+
+[22:13:29.599] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"枫原万叶"
+
+[22:13:30.874] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:7.5 秒
+
+[22:13:33.862] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 941, Y = 267, Width = 37, Height = 223, Top = 267, Bottom = 490, Left = 941, Right = 978, Location = Point { X = 941, Y = 267 }, Size = Size { Width = 37, Height = 223 }, TopLeft = Point { X = 941, Y = 267 }, BottomRight = Point { X = 978, Y = 490 } }"
+
+[22:13:33.862] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 941 490
+
+[22:13:34.585] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 943, Y = 225, Width = 35, Height = 218, Top = 225, Bottom = 443, Left = 943, Right = 978, Location = Point { X = 943, Y = 225 }, Size = Size { Width = 35, Height = 218 }, TopLeft = Point { X = 943, Y = 225 }, BottomRight = Point { X = 978, Y = 443 } }"
+
+[22:13:34.585] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 943 443
+
+[22:13:35.370] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 939, Y = 575, Width = 46, Height = 164, Top = 575, Bottom = 739, Left = 939, Right = 985, Location = Point { X = 939, Y = 575 }, Size = Size { Width = 46, Height = 164 }, TopLeft = Point { X = 939, Y = 575 }, BottomRight = Point { X = 985, Y = 739 } }"
+
+[22:13:35.370] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 939 739
+
+[22:13:36.126] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:13:40.070] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1882, Y = 313, Width = 29, Height = 83, Top = 313, Bottom = 396, Left = 1882, Right = 1911, Location = Point { X = 1882, Y = 313 }, Size = Size { Width = 29, Height = 83 }, TopLeft = Point { X = 1882, Y = 313 }, BottomRight = Point { X = 1911, Y = 396 } }"
+
+[22:13:40.070] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1882 396
+
+[22:13:40.826] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1882, Y = 313, Width = 31, Height = 83, Top = 313, Bottom = 396, Left = 1882, Right = 1913, Location = Point { X = 1882, Y = 313 }, Size = Size { Width = 31, Height = 83 }, TopLeft = Point { X = 1882, Y = 313 }, BottomRight = Point { X = 1913, Y = 396 } }"
+
+[22:13:40.826] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1882 396
+
+[22:13:41.584] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:13:43.956] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 738, Y = 339, Width = 14, Height = 70, Top = 339, Bottom = 409, Left = 738, Right = 752, Location = Point { X = 738, Y = 339 }, Size = Size { Width = 14, Height = 70 }, TopLeft = Point { X = 738, Y = 339 }, BottomRight = Point { X = 752, Y = 409 } }"
+
+[22:13:43.957] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 738 409
+
+[22:13:44.709] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1445, Y = 476, Width = 24, Height = 122, Top = 476, Bottom = 598, Left = 1445, Right = 1469, Location = Point { X = 1445, Y = 476 }, Size = Size { Width = 24, Height = 122 }, TopLeft = Point { X = 1445, Y = 476 }, BottomRight = Point { X = 1469, Y = 598 } }"
+
+[22:13:44.709] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1445 598
+
+[22:13:45.416] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1629, Y = 551, Width = 38, Height = 163, Top = 551, Bottom = 714, Left = 1629, Right = 1667, Location = Point { X = 1629, Y = 551 }, Size = Size { Width = 38, Height = 163 }, TopLeft = Point { X = 1629, Y = 551 }, BottomRight = Point { X = 1667, Y = 714 } }"
+
+[22:13:45.416] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1629 714
+
+[22:13:46.153] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1304, Y = 558, Width = 50, Height = 207, Top = 558, Bottom = 765, Left = 1304, Right = 1354, Location = Point { X = 1304, Y = 558 }, Size = Size { Width = 50, Height = 207 }, TopLeft = Point { X = 1304, Y = 558 }, BottomRight = Point { X = 1354, Y = 765 } }"
+
+[22:13:46.153] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1304 765
+
+[22:13:46.927] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 824, Y = 528, Width = 49, Height = 306, Top = 528, Bottom = 834, Left = 824, Right = 873, Location = Point { X = 824, Y = 528 }, Size = Size { Width = 49, Height = 306 }, TopLeft = Point { X = 824, Y = 528 }, BottomRight = Point { X = 873, Y = 834 } }"
+
+[22:13:46.927] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 824 834
+
+[22:13:52.149] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1365, Y = 304, Width = 52, Height = 256, Top = 304, Bottom = 560, Left = 1365, Right = 1417, Location = Point { X = 1365, Y = 304 }, Size = Size { Width = 52, Height = 256 }, TopLeft = Point { X = 1365, Y = 304 }, BottomRight = Point { X = 1417, Y = 560 } }"
+
+[22:13:52.149] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1365 560
+
+[22:13:52.835] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1366, Y = 308, Width = 60, Height = 259, Top = 308, Bottom = 567, Left = 1366, Right = 1426, Location = Point { X = 1366, Y = 308 }, Size = Size { Width = 60, Height = 259 }, TopLeft = Point { X = 1366, Y = 308 }, BottomRight = Point { X = 1426, Y = 567 } }"
+
+[22:13:52.835] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1366 567
+
+[22:13:53.545] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1398, Y = 406, Width = 72, Height = 314, Top = 406, Bottom = 720, Left = 1398, Right = 1470, Location = Point { X = 1398, Y = 406 }, Size = Size { Width = 72, Height = 314 }, TopLeft = Point { X = 1398, Y = 406 }, BottomRight = Point { X = 1470, Y = 720 } }"
+
+[22:13:53.545] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1398 720
+
+[22:13:54.401] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 787, Y = 809, Width = 56, Height = 268, Top = 809, Bottom = 1077, Left = 787, Right = 843, Location = Point { X = 787, Y = 809 }, Size = Size { Width = 56, Height = 268 }, TopLeft = Point { X = 787, Y = 809 }, BottomRight = Point { X = 843, Y = 1077 } }"
+
+[22:13:54.401] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 787 1077
+
+[22:13:55.103] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[22:13:56.523] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1155, Y = 415, Width = 36, Height = 201, Top = 415, Bottom = 616, Left = 1155, Right = 1191, Location = Point { X = 1155, Y = 415 }, Size = Size { Width = 36, Height = 201 }, TopLeft = Point { X = 1155, Y = 415 }, BottomRight = Point { X = 1191, Y = 616 } }"
+
+[22:13:56.523] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1155 616
+
+[22:13:57.126] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1151, Y = 410, Width = 38, Height = 202, Top = 410, Bottom = 612, Left = 1151, Right = 1189, Location = Point { X = 1151, Y = 410 }, Size = Size { Width = 38, Height = 202 }, TopLeft = Point { X = 1151, Y = 410 }, BottomRight = Point { X = 1189, Y = 612 } }"
+
+[22:13:57.126] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1151 612
+
+[22:13:57.813] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 820, Y = 490, Width = 45, Height = 253, Top = 490, Bottom = 743, Left = 820, Right = 865, Location = Point { X = 820, Y = 490 }, Size = Size { Width = 45, Height = 253 }, TopLeft = Point { X = 820, Y = 490 }, BottomRight = Point { X = 865, Y = 743 } }"
+
+[22:13:57.813] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 820 743
+
+[22:13:58.568] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:14:03.317] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1215, Y = 403, Width = 26, Height = 117, Top = 403, Bottom = 520, Left = 1215, Right = 1241, Location = Point { X = 1215, Y = 403 }, Size = Size { Width = 26, Height = 117 }, TopLeft = Point { X = 1215, Y = 403 }, BottomRight = Point { X = 1241, Y = 520 } }"
+
+[22:14:03.318] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1215 520
+
+[22:14:03.530] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+超时或视野内没有可拾取物品，结束扫描
+
+[22:14:03.531] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_W的按下状态.
+
+[22:14:04.762] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-451.7","2046.3")
+
+[22:14:05.850] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:14:06.514] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"钟离"
+
+[22:14:08.309] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:14:10.115] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:10.120] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[22:14:10.123] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 0
+
+[22:14:10.123] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:14:10.124] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:14:11.326] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:14:12.236] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始第 1 次滑动
+
+[22:14:13.085] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托4的完成状态（图像识别）
+
+[22:14:13.090] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 已完成
+
+[22:14:13.090] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "圆滚滚的易爆品" 执行成功
+
+[22:14:13.090] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[22:14:13.090] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "临危受命" ("奔狼领") ["fight"]
+
+[22:14:13.090] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-324.69922, 2187.7764)
+
+[22:14:13.093] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/临危受命/奔狼领-1.json" 获取到目标坐标: (-318, 2184.88)
+
+[22:14:13.094] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/临危受命/奔狼领-1.json" 目标位置: (-318, 2184.88)，距离: 7.298525518567267
+
+[22:14:13.096] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/临危受命/奔狼领-2.json" 获取到目标坐标: (-277.56, 2386.81)
+
+[22:14:13.096] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/临危受命/奔狼领-2.json" 目标位置: (-277.56, 2386.81)，距离: 204.5397099218179
+
+[22:14:13.096] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/临危受命/奔狼领-3.json"
+
+[22:14:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[22:14:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/临危受命/奔狼领-1.json", 距离: 7.298525518567267
+
+[22:14:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. 脚本: "assets/临危受命/奔狼领-2.json", 距离: 204.5397099218179
+
+[22:14:13.097] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行路径追踪脚本: "assets/临危受命/奔狼领-1.json"
+
+[22:14:19.029] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -451.33398, Y = 2046.7812 }"
+
+[22:14:19.029] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[22:14:19.423] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:14:23.773] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:14:24.515] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-240.8","2239.4")
+
+[22:14:25.315] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:14:27.042] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:2.2 秒
+
+[22:14:29.977] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:30.228] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-240.1","2223.1")
+
+[22:14:33.839] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:34.039] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-238.7","2213.9")
+
+[22:14:43.355] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:43.549] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-241.4","2203.0")
+
+[22:14:46.222] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:46.477] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-246.8","2194.9")
+
+[22:14:52.142] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:52.362] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-264.3","2178.3")
+
+[22:14:53.511] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:14:55.274] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.6 秒
+
+[22:14:58.619] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:14:58.963] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-289.8","2182.9")
+
+[22:15:04.035] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:15:04.236] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-331.4","2189.5")
+
+[22:15:07.649] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:15:09.380] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:15:12.690] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:15:12.926] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-325.2","2183.6")
+
+[22:15:14.974] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:15:15.181] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-328.0","2196.9")
+
+[22:15:17.860] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:15:17.861] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[22:15:17.862] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共14条指令，涉及角色："钟离,芙宁娜,枫原万叶,白术"
+
+[22:15:17.991] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:15:17.991] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟芙万白【高压环境挂机】"
+
+[22:15:19.731] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.2 秒
+
+[22:15:22.722] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:15:27.255] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:15:28.861] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:15:31.489] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:1 秒
+
+[22:15:33.110] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:15:40.764] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:15:41.262] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow185,134,68
+
+[22:15:41.263] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white187,138,67
+
+[22:15:42.681] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 点按元素战技，cd:5.3 秒
+
+[22:15:42.990] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.2 秒
+
+[22:15:46.067] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:15:50.562] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:15:52.223] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.8 秒
+
+[22:15:54.839] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.9 秒
+
+[22:15:56.351] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:16:03.046] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:16:03.512] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到战斗结束
+
+[22:16:03.513] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+使用枫原万叶长E拾取掉落物
+
+[22:16:04.475] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"枫原万叶"
+
+[22:16:05.749] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:7.5 秒
+
+[22:16:08.753] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 929, Y = 317, Width = 50, Height = 215, Top = 317, Bottom = 532, Left = 929, Right = 979, Location = Point { X = 929, Y = 317 }, Size = Size { Width = 50, Height = 215 }, TopLeft = Point { X = 929, Y = 317 }, BottomRight = Point { X = 979, Y = 532 } }"
+
+[22:16:08.753] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 929 532
+
+[22:16:09.540] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 935, Y = 244, Width = 55, Height = 251, Top = 244, Bottom = 495, Left = 935, Right = 990, Location = Point { X = 935, Y = 244 }, Size = Size { Width = 55, Height = 251 }, TopLeft = Point { X = 935, Y = 244 }, BottomRight = Point { X = 990, Y = 495 } }"
+
+[22:16:09.541] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 935 495
+
+[22:16:10.337] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 922, Y = 397, Width = 71, Height = 373, Top = 397, Bottom = 770, Left = 922, Right = 993, Location = Point { X = 922, Y = 397 }, Size = Size { Width = 71, Height = 373 }, TopLeft = Point { X = 922, Y = 397 }, BottomRight = Point { X = 993, Y = 770 } }"
+
+[22:16:10.337] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 922 770
+
+[22:16:15.287] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1355, Y = 457, Width = 31, Height = 164, Top = 457, Bottom = 621, Left = 1355, Right = 1386, Location = Point { X = 1355, Y = 457 }, Size = Size { Width = 31, Height = 164 }, TopLeft = Point { X = 1355, Y = 457 }, BottomRight = Point { X = 1386, Y = 621 } }"
+
+[22:16:15.287] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1355 621
+
+[22:16:16.128] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1306, Y = 451, Width = 34, Height = 166, Top = 451, Bottom = 617, Left = 1306, Right = 1340, Location = Point { X = 1306, Y = 451 }, Size = Size { Width = 34, Height = 166 }, TopLeft = Point { X = 1306, Y = 451 }, BottomRight = Point { X = 1340, Y = 617 } }"
+
+[22:16:16.128] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1306 617
+
+[22:16:16.880] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 847, Y = 482, Width = 39, Height = 205, Top = 482, Bottom = 687, Left = 847, Right = 886, Location = Point { X = 847, Y = 482 }, Size = Size { Width = 39, Height = 205 }, TopLeft = Point { X = 847, Y = 482 }, BottomRight = Point { X = 886, Y = 687 } }"
+
+[22:16:16.880] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 847 687
+
+[22:16:17.650] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 0, Y = 760, Width = 91, Height = 320, Top = 760, Bottom = 1080, Left = 0, Right = 91, Location = Point { X = 0, Y = 760 }, Size = Size { Width = 91, Height = 320 }, TopLeft = Point { X = 0, Y = 760 }, BottomRight = Point { X = 91, Y = 1080 } }"
+
+[22:16:17.650] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 0 1080
+
+[22:16:18.379] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[22:16:18.379] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[22:16:19.893] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 545, Y = 406, Width = 47, Height = 216, Top = 406, Bottom = 622, Left = 545, Right = 592, Location = Point { X = 545, Y = 406 }, Size = Size { Width = 47, Height = 216 }, TopLeft = Point { X = 545, Y = 406 }, BottomRight = Point { X = 592, Y = 622 } }"
+
+[22:16:19.893] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 545 622
+
+[22:16:20.721] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 581, Y = 418, Width = 37, Height = 219, Top = 418, Bottom = 637, Left = 581, Right = 618, Location = Point { X = 581, Y = 418 }, Size = Size { Width = 37, Height = 219 }, TopLeft = Point { X = 581, Y = 418 }, BottomRight = Point { X = 618, Y = 637 } }"
+
+[22:16:20.721] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 581 637
+
+[22:16:21.449] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1096, Y = 616, Width = 59, Height = 298, Top = 616, Bottom = 914, Left = 1096, Right = 1155, Location = Point { X = 1096, Y = 616 }, Size = Size { Width = 59, Height = 298 }, TopLeft = Point { X = 1096, Y = 616 }, BottomRight = Point { X = 1155, Y = 914 } }"
+
+[22:16:21.449] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1096 914
+
+[22:16:22.221] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_D的按下状态.
+
+[22:16:22.222] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[22:16:23.765] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 968, Y = 603, Width = 55, Height = 171, Top = 603, Bottom = 774, Left = 968, Right = 1023, Location = Point { X = 968, Y = 603 }, Size = Size { Width = 55, Height = 171 }, TopLeft = Point { X = 968, Y = 603 }, BottomRight = Point { X = 1023, Y = 774 } }"
+
+[22:16:23.765] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 968 774
+
+[22:16:24.530] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 705, Y = 650, Width = 63, Height = 45, Top = 650, Bottom = 695, Left = 705, Right = 768, Location = Point { X = 705, Y = 650 }, Size = Size { Width = 63, Height = 45 }, TopLeft = Point { X = 705, Y = 650 }, BottomRight = Point { X = 768, Y = 695 } }"
+
+[22:16:24.530] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 705 695
+
+[22:16:25.323] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 991, Y = 527, Width = 53, Height = 262, Top = 527, Bottom = 789, Left = 991, Right = 1044, Location = Point { X = 991, Y = 527 }, Size = Size { Width = 53, Height = 262 }, TopLeft = Point { X = 991, Y = 527 }, BottomRight = Point { X = 1044, Y = 789 } }"
+
+[22:16:25.323] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 991 789
+
+[22:16:26.078] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1228, Y = 745, Width = 100, Height = 67, Top = 745, Bottom = 812, Left = 1228, Right = 1328, Location = Point { X = 1228, Y = 745 }, Size = Size { Width = 100, Height = 67 }, TopLeft = Point { X = 1228, Y = 745 }, BottomRight = Point { X = 1328, Y = 812 } }"
+
+[22:16:26.079] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1228 812
+
+[22:16:26.835] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1258, Y = 751, Width = 103, Height = 69, Top = 751, Bottom = 820, Left = 1258, Right = 1361, Location = Point { X = 1258, Y = 751 }, Size = Size { Width = 103, Height = 69 }, TopLeft = Point { X = 1258, Y = 751 }, BottomRight = Point { X = 1361, Y = 820 } }"
+
+[22:16:26.835] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1258 820
+
+[22:16:27.566] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 520, Y = 962, Width = 110, Height = 107, Top = 962, Bottom = 1069, Left = 520, Right = 630, Location = Point { X = 520, Y = 962 }, Size = Size { Width = 110, Height = 107 }, TopLeft = Point { X = 520, Y = 962 }, BottomRight = Point { X = 630, Y = 1069 } }"
+
+[22:16:27.566] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 520 1069
+
+[22:16:28.281] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[22:16:28.282] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[22:16:29.771] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 828, Y = 614, Width = 59, Height = 304, Top = 614, Bottom = 918, Left = 828, Right = 887, Location = Point { X = 828, Y = 614 }, Size = Size { Width = 59, Height = 304 }, TopLeft = Point { X = 828, Y = 614 }, BottomRight = Point { X = 887, Y = 918 } }"
+
+[22:16:29.771] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 828 918
+
+[22:16:30.511] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 830, Y = 599, Width = 61, Height = 318, Top = 599, Bottom = 917, Left = 830, Right = 891, Location = Point { X = 830, Y = 599 }, Size = Size { Width = 61, Height = 318 }, TopLeft = Point { X = 830, Y = 599 }, BottomRight = Point { X = 891, Y = 917 } }"
+
+[22:16:30.512] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 830 917
+
+[22:16:31.291] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_S的按下状态.
+
+[22:16:35.168] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1339, Y = 454, Width = 25, Height = 124, Top = 454, Bottom = 578, Left = 1339, Right = 1364, Location = Point { X = 1339, Y = 454 }, Size = Size { Width = 25, Height = 124 }, TopLeft = Point { X = 1339, Y = 454 }, BottomRight = Point { X = 1364, Y = 578 } }"
+
+[22:16:35.168] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1339 578
+
+[22:16:35.872] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1324, Y = 437, Width = 29, Height = 141, Top = 437, Bottom = 578, Left = 1324, Right = 1353, Location = Point { X = 1324, Y = 437 }, Size = Size { Width = 29, Height = 141 }, TopLeft = Point { X = 1324, Y = 437 }, BottomRight = Point { X = 1353, Y = 578 } }"
+
+[22:16:35.872] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1324 578
+
+[22:16:36.620] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 1465, Y = 78, Width = 17, Height = 108, Top = 78, Bottom = 186, Left = 1465, Right = 1482, Location = Point { X = 1465, Y = 78 }, Size = Size { Width = 17, Height = 108 }, TopLeft = Point { X = 1465, Y = 78 }, BottomRight = Point { X = 1482, Y = 186 } }"
+
+[22:16:36.620] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 1465 186
+
+[22:16:37.434] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Fetching: "Rect { X = 121, Y = 528, Width = 87, Height = 285, Top = 528, Bottom = 813, Left = 121, Right = 208, Location = Point { X = 121, Y = 528 }, Size = Size { Width = 87, Height = 285 }, TopLeft = Point { X = 121, Y = 528 }, BottomRight = Point { X = 208, Y = 813 } }"
+
+[22:16:37.434] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+Using coord: 121 813
+
+[22:16:37.648] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+超时或视野内没有可拾取物品，结束扫描
+
+[22:16:37.649] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+解除VK_A的按下状态.
+
+[22:16:38.823] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-318.0","2184.9")
+
+[22:16:39.819] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:16:41.523] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.6 秒
+
+[22:16:42.782] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:16:42.784] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[22:16:42.785] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 1
+
+[22:16:42.785] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:16:42.786] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:16:43.986] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:16:44.897] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托3的完成状态（图像识别）
+
+[22:16:44.902] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 已完成
+
+[22:16:44.902] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "临危受命" 执行成功
+
+[22:16:44.902] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[22:16:44.902] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "固若金汤" ("龙脊雪山") ["fight"]
+
+[22:16:44.902] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-664.6074, 938.85596)
+
+[22:16:44.905] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/固若金汤/龙脊雪山-1.json" 获取到目标坐标: (-672.5791, 948.53174)
+
+[22:16:44.906] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/固若金汤/龙脊雪山-1.json" 目标位置: (-672.5791, 948.53174)，距离: 12.536682967912672
+
+[22:16:44.907] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+从脚本路径 "assets/固若金汤/龙脊雪山-2.json" 获取到目标坐标: (-826.2217, 661.5742)
+
+[22:16:44.907] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "assets/固若金汤/龙脊雪山-2.json" 目标位置: (-826.2217, 661.5742)，距离: 320.9428776473422
+
+[22:16:44.908] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本不存在: "assets/固若金汤/龙脊雪山-3.json"
+
+[22:16:44.908] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+排序后的脚本执行顺序:
+
+[22:16:44.908] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+1. 脚本: "assets/固若金汤/龙脊雪山-1.json", 距离: 12.536682967912672
+
+[22:16:44.908] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+2. 脚本: "assets/固若金汤/龙脊雪山-2.json", 距离: 320.9428776473422
+
+[22:16:44.908] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行路径追踪脚本: "assets/固若金汤/龙脊雪山-1.json"
+
+[22:16:45.001] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共5条指令，涉及角色："当前角色"
+
+[22:16:45.002] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共38条指令，涉及角色："当前角色"
+
+[22:16:45.002] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共38条指令，涉及角色："当前角色"
+
+[22:16:45.002] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共38条指令，涉及角色："当前角色"
+
+[22:16:45.002] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共38条指令，涉及角色："当前角色"
+
+[22:16:50.881] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -318.375, Y = 2181.629 }"
+
+[22:16:50.882] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[22:16:51.266] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送点不在当前大地图范围内，重新调整地图位置
+
+[22:16:58.922] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+移动 6 次鼠标后，已经接近目标点，不再移动地图。
+
+[22:16:59.638] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:17:00.247] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送：点击 "传送锚点"
+
+[22:17:05.806] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:17:06.559] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-697.7","943.6")
+
+[22:17:07.427] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:17:09.239] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:2.4 秒
+
+[22:17:11.024] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:11.281] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-683.9","941.6")
+
+[22:17:13.899] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:14.125] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-674.9","940.5")
+
+[22:17:16.889] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:17.143] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-666.1","940.1")
+
+[22:17:19.257] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:19.261] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-666.1","940.1")
+
+[22:17:21.590] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[22:17:22.608] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "简易策略脚本"
+
+[22:17:25.493] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-666.1","940.1")
+
+[22:17:26.878] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:26.879] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "简易策略脚本"
+
+[22:17:47.038] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-666.1","940.1")
+
+[22:17:48.508] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:17:48.509] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "自动战斗"
+
+[22:17:48.510] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+战斗脚本解析完成，共14条指令，涉及角色："钟离,芙宁娜,枫原万叶,白术"
+
+[22:17:48.647] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:17:48.647] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+匹配到战斗脚本："钟芙万白【高压环境挂机】"
+
+[22:17:50.411] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.2 秒
+
+[22:17:52.960] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.8 秒
+
+[22:17:57.005] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:17:59.437] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:18:00.908] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:3.6 秒
+
+[22:18:02.561] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.9 秒
+
+[22:18:10.510] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:18:11.019] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow127,116,77
+
+[22:18:11.019] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white195,123,79
+
+[22:18:12.612] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5 秒
+
+[22:18:15.562] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:18:22.580] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:18:24.338] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.9 秒
+
+[22:18:27.117] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.7 秒
+
+[22:18:36.514] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:18:37.038] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束yellow92,192,201
+
+[22:18:37.039] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+未识别到战斗结束white223,217,207
+
+[22:18:38.740] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.2 秒
+
+[22:18:41.691] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:18:46.781] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+优先第 "3" 盾奶位 "枫原万叶" 释放战技成功，cd:5.1 秒
+
+[22:18:48.689] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"芙宁娜" 点按元素战技，cd:19.8 秒
+
+[22:18:51.502] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:0.6 秒
+
+[22:18:53.391] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"白术" 点按元素战技，cd:9.8 秒
+
+[22:19:01.423] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+打开编队界面检查战斗是否结束，延时450毫秒检查
+
+[22:19:01.936] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到战斗结束
+
+[22:19:01.938] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+使用枫原万叶长E拾取掉落物
+
+[22:19:03.280] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"枫原万叶"
+
+[22:19:04.629] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"枫原万叶" 长按元素战技，cd:7.5 秒
+
+[22:19:17.956] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+超时或视野内没有可拾取物品，结束扫描
+
+[22:19:19.254] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-667.7","933.5")
+
+[22:19:20.193] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:19:20.948] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"钟离"
+
+[22:19:22.758] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:19:25.517] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:19:25.519] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "简易策略脚本"
+
+[22:19:45.411] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-676.1","935.0")
+
+[22:19:46.921] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:19:48.747] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:19:51.682] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:19:51.683] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "简易策略脚本"
+
+[22:20:12.179] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"白术"
+
+[22:20:17.989] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-672.6","948.5")
+
+[22:20:19.498] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:20:20.233] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+成功切换角色:"钟离"
+
+[22:20:21.952] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.6 秒
+
+[22:20:23.285] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:20:23.286] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+执行 "简易策略脚本"
+
+[22:20:42.855] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+路径追踪脚本执行完成
+
+[22:20:42.855] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 2
+
+[22:20:42.855] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:20:42.856] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:20:44.057] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:20:44.961] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托2的完成状态（图像识别）
+
+[22:20:44.966] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "固若金汤" 已完成
+
+[22:20:44.967] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "固若金汤" 执行成功
+
+[22:20:44.967] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[22:20:44.967] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行委托: "鸽子鸭子小孩子" ("坠星山谷") ["talk"]
+
+[22:20:44.967] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1016.8828, 2185.1233)
+
+[22:20:44.974] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到对话委托流程文件: "assets/process/鸽子鸭子小孩子/坠星山谷/process.json"
+
+[22:20:44.974] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+JSON流程解析成功
+
+[22:20:44.975] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行统一对话委托流程: "鸽子鸭子小孩子"
+
+[22:20:44.976] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始寻找委托目标位置: "鸽子鸭子小孩子"
+
+[22:20:46.088] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:20:46.090] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:20:47.284] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:20:48.286] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+findCommissionTarget识别前3个委托
+
+[22:20:48.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+第1个委托: ""鸽子鸭子小孩子""
+
+[22:20:48.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+找到委托 "鸽子鸭子小孩子" 在位置 1
+
+[22:20:48.315] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托详情按钮: 1
+
+[22:20:50.414] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+发现追踪按钮，点击追踪
+
+[22:20:51.504] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+退出详情页面 - 按ESC
+
+[22:20:53.744] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+当前委托位置: (-1016.71094, 2185.1511)
+
+[22:20:55.857] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 1: "地图追踪"
+
+[22:20:55.858] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第一个地图追踪步骤"
+
+[22:20:55.861] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/鸽子鸭子小孩子/坠星山谷/鸽子、鸭子、小孩子-坠星山谷-1.json"
+
+[22:20:58.045] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -669.5, Y = 955.2251 }"
+
+[22:20:58.045] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："蒙德"
+
+[22:20:58.986] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："蒙德"
+
+[22:20:59.861] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:21:04.223] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:21:04.934] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1053.7","2184.7")
+
+[22:21:14.017] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:21:14.267] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1017.8","2184.9")
+
+[22:21:14.595] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:21:16.371] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:21:20.860] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:21:20.861] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1017.8","2184.9")
+
+[22:21:21.885] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[22:21:22.904] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[22:21:24.915] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 2: "对话"
+
+[22:21:24.915] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，优先选择特定选项并与白名单NPC交互"
+
+[22:21:24.915] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话
+
+[22:21:24.968] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 任务提示
+
+[22:21:24.971] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 鸽子
+
+[22:21:24.973] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 白
+
+[22:21:25.146] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[22:21:25.148] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"提米":位置(1208,511,86,58)
+
+[22:21:25.148] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: 提米
+
+[22:21:26.816] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[22:21:29.204] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:21:31.609] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："抱歉。"
+
+[22:21:36.667] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:21:40.620] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 2 个选项
+
+[22:21:43.039] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："没问题。"
+
+[22:21:53.543] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[22:21:53.558] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[22:21:53.594] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[22:21:55.603] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 3: "对话"
+
+[22:21:55.603] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，优先选择特定选项并与白名单NPC交互"
+
+[22:21:55.603] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话
+
+[22:21:55.652] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 将小麦交给提米
+
+[22:21:55.652] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 
+
+[22:21:55.653] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 你
+
+[22:21:55.807] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[22:21:55.808] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"提米":位置(1209,511,85,58)
+
+[22:21:55.808] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: 提米
+
+[22:21:57.480] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[22:21:59.749] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:22:03.777] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:22:07.786] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:22:11.834] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:22:15.817] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:22:15.817] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+连续5次选项数量一样，执行F跳过
+
+[22:22:25.208] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[22:22:25.224] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[22:22:25.288] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[22:22:27.295] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 4: "地图追踪"
+
+[22:22:27.295] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第二个地图追踪步骤"
+
+[22:22:27.295] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/鸽子鸭子小孩子/坠星山谷/鸽子、鸭子、小孩子-坠星山谷-2.json"
+
+[22:22:27.742] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1018.0","2184.6")
+
+[22:22:28.246] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:22:28.486] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1048.2","2199.9")
+
+[22:22:33.734] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:22:34.029] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1071.4","2205.0")
+
+[22:22:34.894] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:22:36.648] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:22:39.469] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:22:39.747] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1069.4","2226.9")
+
+[22:22:47.835] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:22:47.836] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1069.4","2226.9")
+
+[22:22:48.976] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[22:22:49.993] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[22:22:51.999] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 5: "按键"
+
+[22:22:51.999] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "按下F键"
+
+[22:22:52.000] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行按键: "F"
+
+[22:22:54.005] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 6: "地图追踪"
+
+[22:22:54.005] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行第三个地图追踪步骤"
+
+[22:22:54.006] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行地图追踪: "assets/process/鸽子鸭子小孩子/坠星山谷/鸽子、鸭子、小孩子-坠星山谷-1.json"
+
+[22:22:56.064] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1069.127, Y = 2226.8472 }"
+
+[22:22:56.064] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："当前位置"
+
+[22:22:56.450] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:23:00.852] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:23:01.584] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1053.7","2184.7")
+
+[22:23:10.056] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:23:10.278] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("-1017.8","2184.9")
+
+[22:23:10.611] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换盾、回血角色，使用元素战技
+
+[22:23:12.334] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"钟离" 长按元素战技，cd:11.7 秒
+
+[22:23:16.938] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:23:16.939] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("-1017.8","2184.9")
+
+[22:23:18.092] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+已到达路径点
+
+[22:23:19.108] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+地图追踪执行完成
+
+[22:23:21.122] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行流程步骤 7: "对话"
+
+[22:23:21.123] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+步骤说明: "执行对话步骤，优先选择特定选项并与白名单NPC交互"
+
+[22:23:21.123] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+执行对话
+
+[22:23:21.159] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+任务区域识别文本: 与提米对话
+
+[22:23:21.161] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+提取到人名: 提米
+
+[22:23:21.226] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到 1 个文本
+
+[22:23:21.226] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+人名区域识别到"提米":位置(1209,513,84,55)
+
+[22:23:21.227] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+点击包含提取到任务人名的选项: 提米
+
+[22:23:22.884] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+开始执行自动剧情
+
+[22:23:25.276] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+识别到 1 个选项
+
+[22:23:27.755] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："知道了·"
+
+[22:23:38.318] [ERR] BetterGenshinImpact.GameTask.Common.TaskControl
+选项选择："当前界面不在对话选项界面"
+
+[22:23:38.339] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+检测到已返回主界面，结束循环
+
+[22:23:38.365] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已返回主界面，自动剧情执行完成
+
+[22:23:40.374] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+统一对话委托流程执行完成: "鸽子鸭子小孩子"
+
+[22:23:40.374] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+已完成委托数量: 3
+
+[22:23:40.375] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+尝试使用F1快捷键进入委托界面
+
+[22:23:40.375] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+点击委托界面
+
+[22:23:41.579] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+已进入委托界面
+
+[22:23:42.481] [DBG] BetterGenshinImpact.Core.Script.Dependence.Log
+检测委托1的完成状态（图像识别）
+
+[22:23:42.486] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+对话委托 "鸽子鸭子小孩子" 执行完成
+
+[22:23:42.487] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托 "鸽子鸭子小孩子" 执行成功
+
+[22:23:42.487] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+立刻执行下一个委托
+
+[22:23:42.487] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+委托追踪全部执行完成，共执行 4/4 个委托
+
+[22:23:42.487] [INF] BetterGenshinImpact.Core.Script.Dependence.Log
+每日委托执行完成，前往安全地点
+
+[22:23:47.976] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+将传送至 "须弥" "道成林" 七天神像
+
+[22:23:48.396] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = -1019.1699, Y = 2184.643 }"
+
+[22:23:48.396] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："须弥"
+
+[22:23:49.342] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："须弥"
+
+[22:23:50.244] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:23:57.019] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:24:02.048] [INF] BetterGenshinImpact.Service.ScriptService
+→ 脚本执行结束: "(对话+成就)全自动蒙德地区每日委托", 耗时: 15分13.982秒
+
+[22:24:02.048] [INF] BetterGenshinImpact.Service.ScriptService
+------------------------------
+
+[22:24:04.067] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:24:04.081] [INF] BetterGenshinImpact.Service.ScriptService
+配置组 "自动蒙德委托-elio" 执行结束
+
+[22:24:05.085] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+一条龙任务执行: 2/2
+
+[22:24:05.085] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[22:24:05.090] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+→ "前往冒险家协会领取奖励" 开始
+
+[22:24:07.574] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"历练点："未找到领取历练点奖励按钮
+
+[22:24:08.668] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+"历练点："未找到领取历练点奖励按钮
+
+[22:24:10.334] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+识别到的队伍角色:"钟离,芙宁娜,枫原万叶,白术"
+
+[22:24:12.250] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+识别当前大地图位置："Point2f { X = 2297.6494, Y = -824.2407 }"
+
+[22:24:12.250] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+离目标传送点最近的区域是："枫丹"
+
+[22:24:13.178] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+切换到区域："枫丹"
+
+[22:24:14.063] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+点击传送点
+
+[22:24:14.685] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送：点击 "传送锚点"
+
+[22:24:21.334] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+传送完成，返回主界面
+
+[22:24:22.044] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+粗略接近途经点，位置("4495.0","3638.0")
+
+[22:24:24.715] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+到达路径点附近
+
+[22:24:24.716] [DBG] BetterGenshinImpact.GameTask.Common.TaskControl
+精确接近目标点，位置("4495.0","3638.0")
+
+[22:24:29.642] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+识别到橙色文字区域占比:0
+
+[22:24:29.642] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+▶ "领取『每日委托』奖励" 未完成或者已领取
+
+[22:24:32.059] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+识别到橙色文字区域占比:0.24197324414715718
+
+[22:24:32.123] [INF] BetterGenshinImpact.GameTask.Common.Job.ChooseTalkOptionTask
+对话选项："探索派遣"
+
+[22:24:32.956] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："未找到领取按钮"
+
+[22:24:32.956] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："等待1s后重试"
+
+[22:24:34.052] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："全部领取"
+
+[22:24:36.294] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："再次派遣"
+
+[22:24:36.811] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+探索派遣："完成"
+
+[22:24:36.819] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+→ "前往冒险家协会领取奖励" 结束
+
+[22:24:40.295] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+纪行："一键领取"
+
+[22:24:43.048] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+纪行："无需领取"
+
+[22:24:47.205] [INF] BetterGenshinImpact.GameTask.Common.TaskControl
+纪行："无需领取"
+
+[22:24:49.309] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:24:49.310] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务启动！"
+
+[22:24:54.412] [WRN] BetterGenshinImpact.GameTask.Common.TaskControl
+检查每日奖励结果："未领取"，请手动检查！
+
+[22:24:54.927] [INF] BetterGenshinImpact.ViewModel.Pages.OneDragonFlowViewModel
+一条龙和配置组任务结束
+
+[22:24:54.937] [INF] BetterGenshinImpact.GameTask.TaskRunner
+→ "任务结束"
+
+[22:25:13.422] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："领取「每日委托」奖励"
+
+[22:32:41.902] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:43.151] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.99"
+
+[22:32:52.734] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:54.065] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:55.515] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:56.915] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:58.298] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:32:59.597] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:33:01.065] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:31.572] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:36.371] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:37.786] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:39.153] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:40.485] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:41.802] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:43.052] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:38:44.402] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:39:35.358] [INF] BetterGenshinImpact.GameTask.AutoPick.AutoPickTrigger
+交互或拾取："待解「奔局"
+
+[22:39:55.392] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:39:59.843] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:01.058] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:02.425] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:03.808] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:05.058] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:06.324] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:40:07.558] [INF] BetterGenshinImpact.GameTask.AutoSkip.AutoSkipTrigger
+自动剧情："点击黑屏" 比例 "0.98"
+
+[22:41:31.747] [INF] BetterGenshinImpact.GameTask.TaskTriggerDispatcher
+游戏已退出，BetterGI 自动停止截图器
+
+[22:41:32.738] [DBG] BetterGenshinImpact.View.MainWindow
+主窗体退出
+
